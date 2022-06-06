@@ -1,0 +1,6 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"6.6 Cardiovascular disease"	11.2148	8.5131	12.4106	3.113
+"5.10 Environmental adaptation"	1.9548	9.4777	7.8973	2.2813
+"4.1 Transport and catabolism"	5.6403	5.6191	7.1117	1.6185
+"5.1 Immune system"	2.6365	6.9733	7.0727	1.4716
+"1.9 Metabolism of terpenoids and polyketides"	5.7402	5.7347	7.0125	1.5589

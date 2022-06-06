@@ -1,0 +1,11 @@
+
+Call:
+anosim(x = data, grouping = Group) 
+Dissimilarity: bray 
+
+ANOSIM statistic R: 0.02122 
+      Significance: 0.11 
+
+Permutation: free
+Number of permutations: 999
+

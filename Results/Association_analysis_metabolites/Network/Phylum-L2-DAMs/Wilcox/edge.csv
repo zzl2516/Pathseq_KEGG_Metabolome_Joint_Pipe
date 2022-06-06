@@ -1,0 +1,476 @@
+Source,Target,R,P
+Bacteroidetes,1.7 Glycan biosynthesis and metabolism,1,2.27974018725642e-21
+1.4 Nucleotide metabolism,2.2 Translation,1,5.6795163550465e-18
+2.1 Transcription,2.2 Translation,1,8.46013346857178e-36
+2.1 Transcription,"2.3 Folding, sorting and degradation",1,7.04717890107513e-27
+2.2 Translation,"2.3 Folding, sorting and degradation",1,2.94787241776567e-36
+1.4 Nucleotide metabolism,2.4 Replication and repair,1,1.9048132306333e-18
+2.1 Transcription,2.4 Replication and repair,1,2.2900409707692e-24
+2.2 Translation,2.4 Replication and repair,1,8.02715161470073e-39
+"2.3 Folding, sorting and degradation",2.4 Replication and repair,1,5.91585476903083e-33
+Bacteroidetes,4.1 Transport and catabolism,1,5.44887628425018e-19
+1.7 Glycan biosynthesis and metabolism,4.1 Transport and catabolism,1,1.02625621949868e-33
+2.1 Transcription,4.2 Cell growth and death,1,1.28867355779946e-27
+2.2 Translation,4.2 Cell growth and death,1,1.57332804105455e-24
+"2.3 Folding, sorting and degradation",4.2 Cell growth and death,1,1.35213944198006e-17
+2.4 Replication and repair,4.2 Cell growth and death,1,2.54055448247161e-20
+3.1 Membrane transport,4.4 Cellular community - prokaryotes,1,4.07754577731539e-42
+1.7 Glycan biosynthesis and metabolism,5.6 Nervous system,1,7.61676132206681e-20
+4.1 Transport and catabolism,5.6 Nervous system,1,3.97409222895025e-25
+5.1 Immune system,6.6 Cardiovascular disease,1,1.52441022719757e-19
+2.2 Translation,6.7 Endocrine and metabolic disease,1,1.23720729403147e-16
+"2.3 Folding, sorting and degradation",6.7 Endocrine and metabolic disease,1,5.52693440261159e-19
+3-Hydroxybutyric acid,"D-Arabinono-1,4-lactone",1,1.82849939079113e-17
+2-Hydroxyisocaproic acid,"D-Arabinono-1,4-lactone",1,2.49655271320232e-18
+3-Hydroxybutyric acid,9-Oxononanoic acid,1,2.95639976109656e-22
+"D-Arabinono-1,4-lactone",9-Oxononanoic acid,1,9.63275178723714e-37
+2-Hydroxy-4-methylpentanoic acid,2-Propylglutaric acid,1,3.56852692947259e-29
+2-Hydroxy-4-methylpentanoic acid,6-Hydroxy-4-methylcoumarin,1,8.17158552195008e-21
+2-Propylglutaric acid,6-Hydroxy-4-methylcoumarin,1,7.64804087539576e-21
+3-Hydroxybutyric acid,Tetradecanedioic acid,1,3.62265500542901e-21
+"D-Arabinono-1,4-lactone",Tetradecanedioic acid,1,1.56645649898763e-35
+9-Oxononanoic acid,Tetradecanedioic acid,1,1.93816623788415e-61
+3-Hydroxybutyric acid,"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",1,6.31684204101146e-21
+"D-Arabinono-1,4-lactone","13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",1,9.50357462446906e-35
+9-Oxononanoic acid,"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",1,4.04819245946241e-59
+Tetradecanedioic acid,"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",1,1.12564045204252e-79
+Citric Acid,2R-Hydroxyoctadecanoic Acid,1,4.03448951023259e-66
+3-Hydroxybutyric acid,"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",1,6.46976722668438e-18
+"D-Arabinono-1,4-lactone","2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",1,2.91321658539667e-18
+9-Oxononanoic acid,"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",1,1.35365413913815e-22
+Tetradecanedioic acid,"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",1,7.63151067267344e-24
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid","2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",1,7.1637742044758e-24
+3-Hydroxybutyric acid,Genistein-7-O-Glucoside (Genistin),1,4.23712737965068e-20
+"D-Arabinono-1,4-lactone",Genistein-7-O-Glucoside (Genistin),1,5.93668079770126e-22
+9-Oxononanoic acid,Genistein-7-O-Glucoside (Genistin),1,4.26724671782627e-28
+Tetradecanedioic acid,Genistein-7-O-Glucoside (Genistin),1,2.89043239221803e-31
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Genistein-7-O-Glucoside (Genistin),1,2.10518112429982e-31
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",Genistein-7-O-Glucoside (Genistin),1,1.14078867639483e-25
+Uridine 5'-monophosphate disodium salt,Kaempferol-3-O-galactoside (Trifolin),1,2.22359344489428e-62
+"24,30-Dihydroxy-12(13)-enolupinol",Ursolic acid,1,2.02685368397423e-59
+"24,30-Dihydroxy-12(13)-enolupinol",Betulinic acid,1,6.86454226956208e-61
+Ursolic acid,Betulinic acid,1,1.50516770479355e-65
+Uridine 5'-monophosphate disodium salt,Chrysoeriol-5-O-glucoside,1,6.43233374008275e-23
+Kaempferol-3-O-galactoside (Trifolin),Chrysoeriol-5-O-glucoside,1,1.12859973353015e-22
+Uridine 5'-monophosphate disodium salt,Quercetin-7-O-glucoside,1,9.64490526861243e-22
+Kaempferol-3-O-galactoside (Trifolin),Quercetin-7-O-glucoside,1,1.8866343983819e-22
+Chrysoeriol-5-O-glucoside,Quercetin-7-O-glucoside,1,9.52878364878209e-42
+Uridine 5'-monophosphate disodium salt,Quercetin-3-O-glucoside (Isoquercitrin),1,3.59056037723539e-22
+Kaempferol-3-O-galactoside (Trifolin),Quercetin-3-O-glucoside (Isoquercitrin),1,1.43331671529621e-22
+Chrysoeriol-5-O-glucoside,Quercetin-3-O-glucoside (Isoquercitrin),1,5.09071039201019e-39
+Quercetin-7-O-glucoside,Quercetin-3-O-glucoside (Isoquercitrin),1,8.57284489295093e-64
+Uridine 5'-monophosphate disodium salt,6-Hydroxyluteolin 5-glucoside,1,1.20695500710056e-22
+Kaempferol-3-O-galactoside (Trifolin),6-Hydroxyluteolin 5-glucoside,1,4.51231967089315e-23
+Chrysoeriol-5-O-glucoside,6-Hydroxyluteolin 5-glucoside,1,2.90230323506101e-39
+Quercetin-7-O-glucoside,6-Hydroxyluteolin 5-glucoside,1,2.20281547937191e-64
+Quercetin-3-O-glucoside (Isoquercitrin),6-Hydroxyluteolin 5-glucoside,1,6.22874855935876e-71
+"24,30-Dihydroxy-12(13)-enolupinol","2,3-dihydroxy-12-ursen-28-oic acid",1,1.51030499582201e-18
+Ursolic acid,"2,3-dihydroxy-12-ursen-28-oic acid",1,7.90563335729662e-21
+Betulinic acid,"2,3-dihydroxy-12-ursen-28-oic acid",1,8.58676123931102e-21
+"24,30-Dihydroxy-12(13)-enolupinol","3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",1,1.62997447998772e-19
+Ursolic acid,"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",1,1.01741095596168e-21
+Betulinic acid,"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",1,5.42151960328181e-22
+"2,3-dihydroxy-12-ursen-28-oic acid","3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",1,5.84778909459742e-64
+"24,30-Dihydroxy-12(13)-enolupinol",2-Hydroxyoleanolic acid,1,3.89237552028928e-19
+Ursolic acid,2-Hydroxyoleanolic acid,1,1.47463509124013e-21
+Betulinic acid,2-Hydroxyoleanolic acid,1,1.68169989540456e-21
+"2,3-dihydroxy-12-ursen-28-oic acid",2-Hydroxyoleanolic acid,1,1.2837199952704e-56
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",2-Hydroxyoleanolic acid,1,7.26268278730972e-62
+"24,30-Dihydroxy-12(13)-enolupinol",Maslinic acid,1,3.62159948378761e-19
+Ursolic acid,Maslinic acid,1,8.21186916124156e-22
+Betulinic acid,Maslinic acid,1,7.92255208401321e-22
+"2,3-dihydroxy-12-ursen-28-oic acid",Maslinic acid,1,1.32110786943256e-62
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",Maslinic acid,1,3.16073693307625e-63
+2-Hydroxyoleanolic acid,Maslinic acid,1,1.32110786943256e-62
+"24,30-Dihydroxy-12(13)-enolupinol",Corosolic acid,1,2.06542254394529e-19
+Ursolic acid,Corosolic acid,1,6.61739419454849e-22
+Betulinic acid,Corosolic acid,1,4.51752067619793e-22
+"2,3-dihydroxy-12-ursen-28-oic acid",Corosolic acid,1,3.07501245682603e-59
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",Corosolic acid,1,2.27622146489081e-61
+2-Hydroxyoleanolic acid,Corosolic acid,1,2.18906671152491e-57
+Maslinic acid,Corosolic acid,1,1.50516770479355e-65
+"24,30-Dihydroxy-12(13)-enolupinol",2α-Hydroxyursolic acid,1,1.39386499467034e-19
+Ursolic acid,2α-Hydroxyursolic acid,1,4.43557928881696e-22
+Betulinic acid,2α-Hydroxyursolic acid,1,2.90198646380611e-22
+"2,3-dihydroxy-12-ursen-28-oic acid",2α-Hydroxyursolic acid,1,1.47709068466637e-60
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",2α-Hydroxyursolic acid,1,3.79254171322455e-63
+2-Hydroxyoleanolic acid,2α-Hydroxyursolic acid,1,5.2013117010855e-62
+Maslinic acid,2α-Hydroxyursolic acid,1,8.05297151503504e-65
+Corosolic acid,2α-Hydroxyursolic acid,1,6.14878952484659e-62
+"2,3-dihydroxy-12-ursen-28-oic acid","2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,4.55847911036927e-19
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit","2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,1.3030994111783e-19
+2-Hydroxyoleanolic acid,"2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,1.27413101903441e-19
+Maslinic acid,"2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,2.76899793773511e-19
+Corosolic acid,"2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,1.19090284125683e-19
+2α-Hydroxyursolic acid,"2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,3.1334720334602e-19
+"2,3-dihydroxy-12-ursen-28-oic acid",Madasiatic acid,1,4.12294463225842e-19
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",Madasiatic acid,1,1.6916307456519e-19
+2-Hydroxyoleanolic acid,Madasiatic acid,1,8.73613586330365e-20
+Maslinic acid,Madasiatic acid,1,2.17463397360683e-19
+Corosolic acid,Madasiatic acid,1,1.22722479138046e-19
+2α-Hydroxyursolic acid,Madasiatic acid,1,2.85088872401196e-19
+"2α,3α,23-trihydroxyolean-12-en-28-oic acid",Madasiatic acid,1,2.48677010244788e-76
+Taxifolin-3'-O-glucoside,Isorhamnetin-3-O-(6''-acetylglucoside),1,7.8382793556352e-27
+3-Hydroxybutyric acid,3-O-Feruloylquinic acid-O-glucoside,1,4.87392495814185e-20
+"D-Arabinono-1,4-lactone",3-O-Feruloylquinic acid-O-glucoside,1,6.26670020789022e-34
+9-Oxononanoic acid,3-O-Feruloylquinic acid-O-glucoside,1,2.67120438894642e-53
+Tetradecanedioic acid,3-O-Feruloylquinic acid-O-glucoside,1,3.91795871401179e-76
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",3-O-Feruloylquinic acid-O-glucoside,1,6.11584645027713e-77
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",3-O-Feruloylquinic acid-O-glucoside,1,1.69807227773089e-23
+Genistein-7-O-Glucoside (Genistin),3-O-Feruloylquinic acid-O-glucoside,1,3.23011621429888e-31
+3-Hydroxybutyric acid,Olivil-4'-O-glucoside,1,1.18301785844996e-21
+"D-Arabinono-1,4-lactone",Olivil-4'-O-glucoside,1,8.77934022075181e-34
+9-Oxononanoic acid,Olivil-4'-O-glucoside,1,2.30241684525462e-54
+Tetradecanedioic acid,Olivil-4'-O-glucoside,1,8.51117551851231e-71
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Olivil-4'-O-glucoside,1,5.21846792400749e-70
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",Olivil-4'-O-glucoside,1,7.79387737129078e-24
+Genistein-7-O-Glucoside (Genistin),Olivil-4'-O-glucoside,1,6.82701544229439e-32
+3-O-Feruloylquinic acid-O-glucoside,Olivil-4'-O-glucoside,1,3.84230740461293e-69
+Tetradecanedioic acid,Myricetin-3-O-rutinoside,1,2.91065959387617e-17
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Myricetin-3-O-rutinoside,1,8.06212695240158e-18
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",Myricetin-3-O-rutinoside,1,2.19067127599409e-17
+Genistein-7-O-Glucoside (Genistin),Myricetin-3-O-rutinoside,1,8.20637711002828e-17
+Taxifolin-3'-O-glucoside,Myricetin-3-O-rutinoside,1,3.45705038657167e-29
+Isorhamnetin-3-O-(6''-acetylglucoside),Myricetin-3-O-rutinoside,1,3.41469042457224e-25
+3-O-Feruloylquinic acid-O-glucoside,Myricetin-3-O-rutinoside,1,9.34664256005239e-18
+Olivil-4'-O-glucoside,Myricetin-3-O-rutinoside,1,6.68329397875328e-18
+3-Hydroxybutyric acid,"Pinoresinol-4,4'-O-di-O-glucoside",1,1.80185461734028e-20
+"D-Arabinono-1,4-lactone","Pinoresinol-4,4'-O-di-O-glucoside",1,1.87057323859849e-35
+9-Oxononanoic acid,"Pinoresinol-4,4'-O-di-O-glucoside",1,5.47982043005034e-53
+Tetradecanedioic acid,"Pinoresinol-4,4'-O-di-O-glucoside",1,9.29336614979834e-63
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid","Pinoresinol-4,4'-O-di-O-glucoside",1,1.80567502264826e-64
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside","Pinoresinol-4,4'-O-di-O-glucoside",1,6.43233374008275e-23
+Genistein-7-O-Glucoside (Genistin),"Pinoresinol-4,4'-O-di-O-glucoside",1,1.97608896676651e-28
+3-O-Feruloylquinic acid-O-glucoside,"Pinoresinol-4,4'-O-di-O-glucoside",1,3.13205068277074e-62
+Olivil-4'-O-glucoside,"Pinoresinol-4,4'-O-di-O-glucoside",1,7.84429068731585e-66
+Myricetin-3-O-rutinoside,"Pinoresinol-4,4'-O-di-O-glucoside",1,3.9267031552976e-17
+3-Hydroxybutyric acid,Funkioside_C,1,1.2922814606925e-21
+"D-Arabinono-1,4-lactone",Funkioside_C,1,7.60898567857247e-31
+9-Oxononanoic acid,Funkioside_C,1,4.98291985521839e-48
+Tetradecanedioic acid,Funkioside_C,1,4.49316564371036e-57
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Funkioside_C,1,2.96645060821228e-58
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",Funkioside_C,1,1.63835164463025e-25
+Genistein-7-O-Glucoside (Genistin),Funkioside_C,1,5.85549882185873e-34
+3-O-Feruloylquinic acid-O-glucoside,Funkioside_C,1,1.01956281202232e-56
+Olivil-4'-O-glucoside,Funkioside_C,1,1.61371091889248e-56
+Myricetin-3-O-rutinoside,Funkioside_C,1,2.14924807334634e-20
+"Pinoresinol-4,4'-O-di-O-glucoside",Funkioside_C,1,3.01259299114501e-51
+3-Hydroxybutyric acid,"9,10-Epoxyoctadecanoic Acid",1,1.27413101903441e-19
+"D-Arabinono-1,4-lactone","9,10-Epoxyoctadecanoic Acid",1,1.45352533638276e-26
+9-Oxononanoic acid,"9,10-Epoxyoctadecanoic Acid",1,5.23566864978942e-40
+Tetradecanedioic acid,"9,10-Epoxyoctadecanoic Acid",1,2.53882871203792e-45
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid","9,10-Epoxyoctadecanoic Acid",1,1.67662032380974e-45
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside","9,10-Epoxyoctadecanoic Acid",1,1.03406050187963e-23
+Genistein-7-O-Glucoside (Genistin),"9,10-Epoxyoctadecanoic Acid",1,2.94741461245947e-30
+3-O-Feruloylquinic acid-O-glucoside,"9,10-Epoxyoctadecanoic Acid",1,1.22390514371556e-45
+Olivil-4'-O-glucoside,"9,10-Epoxyoctadecanoic Acid",1,1.09413405872523e-44
+Myricetin-3-O-rutinoside,"9,10-Epoxyoctadecanoic Acid",1,1.27726404243896e-17
+"Pinoresinol-4,4'-O-di-O-glucoside","9,10-Epoxyoctadecanoic Acid",1,9.23186945996942e-41
+Funkioside_C,"9,10-Epoxyoctadecanoic Acid",1,1.17371596564573e-43
+3-Hydroxybutyric acid,Pennogenin 3-O-beta-chacotrioside,1,8.36032536364132e-22
+"D-Arabinono-1,4-lactone",Pennogenin 3-O-beta-chacotrioside,1,3.05571029645177e-31
+9-Oxononanoic acid,Pennogenin 3-O-beta-chacotrioside,1,2.37815453226093e-51
+Tetradecanedioic acid,Pennogenin 3-O-beta-chacotrioside,1,1.02351912743271e-66
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Pennogenin 3-O-beta-chacotrioside,1,1.49635304479414e-67
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",Pennogenin 3-O-beta-chacotrioside,1,1.73949255569394e-25
+Genistein-7-O-Glucoside (Genistin),Pennogenin 3-O-beta-chacotrioside,1,1.82027313164873e-33
+3-O-Feruloylquinic acid-O-glucoside,Pennogenin 3-O-beta-chacotrioside,1,5.06133983968543e-69
+Olivil-4'-O-glucoside,Pennogenin 3-O-beta-chacotrioside,1,9.87278172012922e-65
+Myricetin-3-O-rutinoside,Pennogenin 3-O-beta-chacotrioside,1,6.06121469526927e-19
+"Pinoresinol-4,4'-O-di-O-glucoside",Pennogenin 3-O-beta-chacotrioside,1,5.61356057935643e-58
+Funkioside_C,Pennogenin 3-O-beta-chacotrioside,1,1.93816623788415e-61
+"9,10-Epoxyoctadecanoic Acid",Pennogenin 3-O-beta-chacotrioside,1,1.59943186992336e-47
+3-Hydroxybutyric acid,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,1.31527353107286e-21
+"D-Arabinono-1,4-lactone","(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,2.18554529140652e-31
+9-Oxononanoic acid,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,2.92964437686491e-50
+Tetradecanedioic acid,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,8.09745463279101e-67
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid","(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,1.49635304479414e-67
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside","(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,1.11262740371998e-24
+Genistein-7-O-Glucoside (Genistin),"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,2.86993677741313e-33
+3-O-Feruloylquinic acid-O-glucoside,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,9.086545347917e-68
+Olivil-4'-O-glucoside,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,1.32110786943256e-62
+Myricetin-3-O-rutinoside,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,4.49365076496902e-19
+"Pinoresinol-4,4'-O-di-O-glucoside","(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,1.18037970047664e-55
+Funkioside_C,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,3.83430765552984e-58
+"9,10-Epoxyoctadecanoic Acid","(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,2.29175143478446e-49
+Pennogenin 3-O-beta-chacotrioside,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,3.77997095987731e-77
+3-Hydroxybutyric acid,N-Acetyl-L-leucine,1,1.4876370981512e-21
+"D-Arabinono-1,4-lactone",N-Acetyl-L-leucine,1,1.82386729950867e-35
+9-Oxononanoic acid,N-Acetyl-L-leucine,1,1.47709068466637e-60
+Tetradecanedioic acid,N-Acetyl-L-leucine,1,2.31964002457611e-77
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",N-Acetyl-L-leucine,1,8.54296016033741e-78
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",N-Acetyl-L-leucine,1,1.1594031409506e-23
+Genistein-7-O-Glucoside (Genistin),N-Acetyl-L-leucine,1,2.73381996421554e-31
+3-O-Feruloylquinic acid-O-glucoside,N-Acetyl-L-leucine,1,2.88285505043947e-70
+Olivil-4'-O-glucoside,N-Acetyl-L-leucine,1,7.0604880418332e-68
+Myricetin-3-O-rutinoside,N-Acetyl-L-leucine,1,1.39554479312563e-17
+"Pinoresinol-4,4'-O-di-O-glucoside",N-Acetyl-L-leucine,1,9.34686166744684e-61
+Funkioside_C,N-Acetyl-L-leucine,1,3.83430765552984e-58
+"9,10-Epoxyoctadecanoic Acid",N-Acetyl-L-leucine,1,2.50051419380648e-44
+Pennogenin 3-O-beta-chacotrioside,N-Acetyl-L-leucine,1,9.086545347917e-68
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",N-Acetyl-L-leucine,1,8.05297151503504e-65
+"D-Arabinono-1,4-lactone",Coniferaldehyde,1,2.32325031125549e-19
+9-Oxononanoic acid,Coniferaldehyde,1,2.73774149404715e-23
+Tetradecanedioic acid,Coniferaldehyde,1,2.25563383386993e-22
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Coniferaldehyde,1,7.43975324236663e-22
+3-O-Feruloylquinic acid-O-glucoside,Coniferaldehyde,1,2.31992764305966e-22
+Olivil-4'-O-glucoside,Coniferaldehyde,1,2.73209742059345e-21
+"Pinoresinol-4,4'-O-di-O-glucoside",Coniferaldehyde,1,7.04863735466633e-22
+Funkioside_C,Coniferaldehyde,1,9.07421382213433e-20
+"9,10-Epoxyoctadecanoic Acid",Coniferaldehyde,1,1.12295450828617e-18
+Pennogenin 3-O-beta-chacotrioside,Coniferaldehyde,1,7.39855468568483e-21
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",Coniferaldehyde,1,4.95427392713311e-21
+N-Acetyl-L-leucine,Coniferaldehyde,1,7.81810375462506e-23
+3-Hydroxybutyric acid,"3,4-Dimethoxybenzamide",1,3.59554304456539e-19
+"D-Arabinono-1,4-lactone","3,4-Dimethoxybenzamide",1,7.81975897409343e-32
+9-Oxononanoic acid,"3,4-Dimethoxybenzamide",1,6.12575762284271e-42
+Tetradecanedioic acid,"3,4-Dimethoxybenzamide",1,2.67298216762931e-45
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid","3,4-Dimethoxybenzamide",1,4.38690778479437e-47
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside","3,4-Dimethoxybenzamide",1,1.34271315414878e-19
+Genistein-7-O-Glucoside (Genistin),"3,4-Dimethoxybenzamide",1,1.00764521698074e-26
+3-O-Feruloylquinic acid-O-glucoside,"3,4-Dimethoxybenzamide",1,1.93619503053422e-46
+Olivil-4'-O-glucoside,"3,4-Dimethoxybenzamide",1,1.35974802809315e-45
+"Pinoresinol-4,4'-O-di-O-glucoside","3,4-Dimethoxybenzamide",1,6.8177021993894e-46
+Funkioside_C,"3,4-Dimethoxybenzamide",1,9.94316720196883e-41
+"9,10-Epoxyoctadecanoic Acid","3,4-Dimethoxybenzamide",1,4.81790501322196e-35
+Pennogenin 3-O-beta-chacotrioside,"3,4-Dimethoxybenzamide",1,1.6992405695918e-44
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside","3,4-Dimethoxybenzamide",1,9.40674437103471e-43
+N-Acetyl-L-leucine,"3,4-Dimethoxybenzamide",1,1.46295240043251e-46
+Coniferaldehyde,"3,4-Dimethoxybenzamide",1,3.09677659813412e-22
+3-Hydroxybutyric acid,4-Pyridoxic acid,1,1.45284260294071e-25
+"D-Arabinono-1,4-lactone",4-Pyridoxic acid,1,2.80340375206681e-21
+9-Oxononanoic acid,4-Pyridoxic acid,1,5.72185395303837e-29
+Tetradecanedioic acid,4-Pyridoxic acid,1,1.91658085405504e-31
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",4-Pyridoxic acid,1,1.71178210603975e-31
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",4-Pyridoxic acid,1,2.87913154279598e-23
+Genistein-7-O-Glucoside (Genistin),4-Pyridoxic acid,1,6.13646998465481e-28
+3-O-Feruloylquinic acid-O-glucoside,4-Pyridoxic acid,1,3.05571029645177e-31
+Olivil-4'-O-glucoside,4-Pyridoxic acid,1,5.79270329670124e-33
+Myricetin-3-O-rutinoside,4-Pyridoxic acid,1,3.80235844270984e-18
+"Pinoresinol-4,4'-O-di-O-glucoside",4-Pyridoxic acid,1,2.23536102286547e-30
+Funkioside_C,4-Pyridoxic acid,1,1.64808205191219e-35
+"9,10-Epoxyoctadecanoic Acid",4-Pyridoxic acid,1,2.00527008320364e-29
+Pennogenin 3-O-beta-chacotrioside,4-Pyridoxic acid,1,1.23613490389721e-34
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",4-Pyridoxic acid,1,4.40094048388826e-33
+N-Acetyl-L-leucine,4-Pyridoxic acid,1,1.76850761350078e-32
+"3,4-Dimethoxybenzamide",4-Pyridoxic acid,1,1.84566290033451e-30
+Cinnamoyltyramine,N-Coumaroyltyramine,1,1.20886219879639e-64
+3-Hydroxybutyric acid,Oleamide (9-Octadecenamide),1,1.2922814606925e-21
+"D-Arabinono-1,4-lactone",Oleamide (9-Octadecenamide),1,8.39517635890752e-34
+9-Oxononanoic acid,Oleamide (9-Octadecenamide),1,2.00915325113137e-55
+Tetradecanedioic acid,Oleamide (9-Octadecenamide),1,1.12564045204252e-79
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Oleamide (9-Octadecenamide),1,1.99708030264239e-79
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",Oleamide (9-Octadecenamide),1,5.49557060208726e-25
+Genistein-7-O-Glucoside (Genistin),Oleamide (9-Octadecenamide),1,3.0611608376042e-33
+3-O-Feruloylquinic acid-O-glucoside,Oleamide (9-Octadecenamide),1,6.28046869706503e-80
+Olivil-4'-O-glucoside,Oleamide (9-Octadecenamide),1,8.51117551851231e-71
+Myricetin-3-O-rutinoside,Oleamide (9-Octadecenamide),1,2.41389411586833e-18
+"Pinoresinol-4,4'-O-di-O-glucoside",Oleamide (9-Octadecenamide),1,1.10856353666477e-62
+Funkioside_C,Oleamide (9-Octadecenamide),1,6.51254391726019e-63
+"9,10-Epoxyoctadecanoic Acid",Oleamide (9-Octadecenamide),1,3.96790923735553e-46
+Pennogenin 3-O-beta-chacotrioside,Oleamide (9-Octadecenamide),1,6.28046869706503e-80
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",Oleamide (9-Octadecenamide),1,2.30468737931879e-72
+N-Acetyl-L-leucine,Oleamide (9-Octadecenamide),1,9.54798177875483e-76
+Coniferaldehyde,Oleamide (9-Octadecenamide),1,3.05429476535094e-21
+"3,4-Dimethoxybenzamide",Oleamide (9-Octadecenamide),1,1.22390514371556e-45
+4-Pyridoxic acid,Oleamide (9-Octadecenamide),1,2.2142877299991e-33
+3-Hydroxybutyric acid,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,1.72969727211805e-19
+"D-Arabinono-1,4-lactone","Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,2.02991988371461e-33
+9-Oxononanoic acid,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,4.3963556812111e-48
+Tetradecanedioic acid,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,4.35597658102699e-58
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid","Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,3.37342752893945e-58
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside","Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,2.10407089204275e-23
+Genistein-7-O-Glucoside (Genistin),"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,5.29711173887687e-32
+3-O-Feruloylquinic acid-O-glucoside,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,1.9388103231204e-57
+Olivil-4'-O-glucoside,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,2.26759706571611e-56
+Myricetin-3-O-rutinoside,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,4.27367598000608e-19
+"Pinoresinol-4,4'-O-di-O-glucoside","Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,1.10684622224569e-52
+Funkioside_C,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,2.29036990253089e-58
+"9,10-Epoxyoctadecanoic Acid","Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,5.89237777133002e-41
+Pennogenin 3-O-beta-chacotrioside,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,1.71411160412919e-54
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside","Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,1.15174178725526e-54
+N-Acetyl-L-leucine,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,3.54173786602111e-57
+Coniferaldehyde,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,2.18320592095103e-21
+"3,4-Dimethoxybenzamide","Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,1.93828466599629e-41
+4-Pyridoxic acid,"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,1.2988180163198e-30
+Oleamide (9-Octadecenamide),"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",1,3.52922599533026e-59
+"26-O-Glu-3β,26-dihydroxy-5-cholesten-16,22-dioxo-3-O-α-rha(1_2)-glucoside",5a-Tomatidan-3-one,1,3.52658118164005e-28
+"26-O-Glu-3β,26-dihydroxy-5-cholesten-16,22-dioxo-3-O-α-rha(1_2)-glucoside",Tomatidenol (Dehydrotomatidine),1,2.59479367963794e-32
+5a-Tomatidan-3-one,Tomatidenol (Dehydrotomatidine),1,1.75134841362463e-30
+Uridine 5'-monophosphate disodium salt,Luteolin-4'-O-glucoside,1,5.3510278381586e-30
+Kaempferol-3-O-galactoside (Trifolin),Luteolin-4'-O-glucoside,1,2.03621525751573e-28
+Chrysoeriol-5-O-glucoside,Luteolin-4'-O-glucoside,1,5.81170758966184e-17
+Quercetin-7-O-glucoside,Luteolin-4'-O-glucoside,1,1.23002756575842e-16
+Quercetin-3-O-glucoside (Isoquercitrin),Luteolin-4'-O-glucoside,1,1.28860640503954e-16
+6-Hydroxyluteolin 5-glucoside,Luteolin-4'-O-glucoside,1,8.96582214257326e-17
+Uridine 5'-monophosphate disodium salt,Kaempferol-3-O-glucoside (Astragalin),1,1.02122565612439e-34
+Kaempferol-3-O-galactoside (Trifolin),Kaempferol-3-O-glucoside (Astragalin),1,1.4254242676588e-34
+Chrysoeriol-5-O-glucoside,Kaempferol-3-O-glucoside (Astragalin),1,5.34870805914942e-20
+Quercetin-7-O-glucoside,Kaempferol-3-O-glucoside (Astragalin),1,5.2959351135105e-19
+Quercetin-3-O-glucoside (Isoquercitrin),Kaempferol-3-O-glucoside (Astragalin),1,2.99984714924653e-19
+6-Hydroxyluteolin 5-glucoside,Kaempferol-3-O-glucoside (Astragalin),1,2.85088872401196e-19
+Luteolin-4'-O-glucoside,Kaempferol-3-O-glucoside (Astragalin),1,5.53459842799128e-30
+Uridine 5'-monophosphate disodium salt,Isohyperoside,1,6.05858576199182e-21
+Kaempferol-3-O-galactoside (Trifolin),Isohyperoside,1,2.59469814570652e-21
+Chrysoeriol-5-O-glucoside,Isohyperoside,1,1.40231769527923e-29
+Quercetin-7-O-glucoside,Isohyperoside,1,2.56761252860175e-30
+Quercetin-3-O-glucoside (Isoquercitrin),Isohyperoside,1,1.07828076859579e-28
+6-Hydroxyluteolin 5-glucoside,Isohyperoside,1,3.56852692947259e-29
+Luteolin-4'-O-glucoside,Isohyperoside,1,1.67353682816041e-18
+Kaempferol-3-O-glucoside (Astragalin),Isohyperoside,1,2.4030481158463e-20
+Uridine 5'-monophosphate disodium salt,Isoquercetin,1,5.89173319258786e-19
+Kaempferol-3-O-galactoside (Trifolin),Isoquercetin,1,1.67912233868586e-19
+Chrysoeriol-5-O-glucoside,Isoquercetin,1,3.62082517630121e-30
+Quercetin-7-O-glucoside,Isoquercetin,1,1.59627100233273e-33
+Quercetin-3-O-glucoside (Isoquercitrin),Isoquercetin,1,2.35527413628749e-31
+6-Hydroxyluteolin 5-glucoside,Isoquercetin,1,6.82701544229439e-32
+Luteolin-4'-O-glucoside,Isoquercetin,1,9.28816023702492e-17
+Kaempferol-3-O-glucoside (Astragalin),Isoquercetin,1,1.08963359339652e-17
+Isohyperoside,Isoquercetin,1,3.80087218323929e-37
+Uridine 5'-monophosphate disodium salt,Nepetin-7-O-glucoside,1,4.438306273432e-24
+Kaempferol-3-O-galactoside (Trifolin),Nepetin-7-O-glucoside,1,1.17149918708449e-23
+Chrysoeriol-5-O-glucoside,Nepetin-7-O-glucoside,1,4.59248704612073e-21
+Quercetin-7-O-glucoside,Nepetin-7-O-glucoside,1,5.06947716326509e-25
+Quercetin-3-O-glucoside (Isoquercitrin),Nepetin-7-O-glucoside,1,5.01127549888692e-25
+6-Hydroxyluteolin 5-glucoside,Nepetin-7-O-glucoside,1,4.69834558997404e-26
+Luteolin-4'-O-glucoside,Nepetin-7-O-glucoside,1,9.63615515260695e-21
+Kaempferol-3-O-glucoside (Astragalin),Nepetin-7-O-glucoside,1,5.91333399099726e-20
+Isohyperoside,Nepetin-7-O-glucoside,1,3.75987658026801e-22
+Isoquercetin,Nepetin-7-O-glucoside,1,5.88914409833308e-23
+α-Solanine,Solasodine-3-O-glucoside,1,5.14713534198341e-19
+α-Solanine,Solasodine 3-O-β-D-glucopyranoside,1,6.31906059829601e-17
+3-Hydroxybutyric acid,6-Methyldiosgenin 3-O-glucopyranoside,1,7.37464873052377e-23
+"D-Arabinono-1,4-lactone",6-Methyldiosgenin 3-O-glucopyranoside,1,5.18203094137434e-23
+9-Oxononanoic acid,6-Methyldiosgenin 3-O-glucopyranoside,1,1.36379772043432e-31
+Tetradecanedioic acid,6-Methyldiosgenin 3-O-glucopyranoside,1,1.25292374231789e-33
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",6-Methyldiosgenin 3-O-glucopyranoside,1,9.59936983105467e-34
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",6-Methyldiosgenin 3-O-glucopyranoside,1,1.00556192170601e-22
+Genistein-7-O-Glucoside (Genistin),6-Methyldiosgenin 3-O-glucopyranoside,1,6.8212523193279e-26
+Isorhamnetin-3-O-(6''-acetylglucoside),6-Methyldiosgenin 3-O-glucopyranoside,1,6.02415048455079e-17
+3-O-Feruloylquinic acid-O-glucoside,6-Methyldiosgenin 3-O-glucopyranoside,1,2.41481742904825e-33
+Olivil-4'-O-glucoside,6-Methyldiosgenin 3-O-glucopyranoside,1,1.17516922994823e-32
+Myricetin-3-O-rutinoside,6-Methyldiosgenin 3-O-glucopyranoside,1,1.82864060042734e-18
+"Pinoresinol-4,4'-O-di-O-glucoside",6-Methyldiosgenin 3-O-glucopyranoside,1,1.41660947183117e-31
+Funkioside_C,6-Methyldiosgenin 3-O-glucopyranoside,1,6.61653040518152e-35
+"9,10-Epoxyoctadecanoic Acid",6-Methyldiosgenin 3-O-glucopyranoside,1,4.35606715183102e-34
+Pennogenin 3-O-beta-chacotrioside,6-Methyldiosgenin 3-O-glucopyranoside,1,2.85178698189927e-37
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",6-Methyldiosgenin 3-O-glucopyranoside,1,4.38470484228888e-38
+N-Acetyl-L-leucine,6-Methyldiosgenin 3-O-glucopyranoside,1,1.14676253424624e-33
+"3,4-Dimethoxybenzamide",6-Methyldiosgenin 3-O-glucopyranoside,1,5.15732506985287e-28
+4-Pyridoxic acid,6-Methyldiosgenin 3-O-glucopyranoside,1,1.15173257522658e-29
+Oleamide (9-Octadecenamide),6-Methyldiosgenin 3-O-glucopyranoside,1,3.16642486059245e-35
+"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",6-Methyldiosgenin 3-O-glucopyranoside,1,7.73919949190402e-30
+3-Hydroxybutyric acid,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,5.14713534198341e-19
+"D-Arabinono-1,4-lactone",Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,2.55098479633673e-27
+9-Oxononanoic acid,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,1.58173037049586e-36
+Tetradecanedioic acid,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,1.84859844392675e-43
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,4.93248561682521e-46
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,8.56675225676171e-24
+Genistein-7-O-Glucoside (Genistin),Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,7.44921716725586e-33
+Taxifolin-3'-O-glucoside,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,1.10457490400093e-19
+Isorhamnetin-3-O-(6''-acetylglucoside),Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,1.19513032572893e-18
+3-O-Feruloylquinic acid-O-glucoside,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,5.20706074733127e-46
+Olivil-4'-O-glucoside,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,2.41120962425217e-45
+Myricetin-3-O-rutinoside,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,5.85820994292803e-24
+"Pinoresinol-4,4'-O-di-O-glucoside",Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,6.66295120589862e-43
+Funkioside_C,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,1.80398531670225e-47
+"9,10-Epoxyoctadecanoic Acid",Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,7.96446843993464e-40
+Pennogenin 3-O-beta-chacotrioside,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,3.95327896383433e-49
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,1.50538621719151e-50
+N-Acetyl-L-leucine,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,5.09658456551671e-44
+Coniferaldehyde,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,2.30258843903278e-18
+"3,4-Dimethoxybenzamide",Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,1.10641681090725e-36
+4-Pyridoxic acid,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,1.49955530586715e-31
+Oleamide (9-Octadecenamide),Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,1.69872734477587e-47
+"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,2.16442465968128e-46
+6-Methyldiosgenin 3-O-glucopyranoside,Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,1,4.35606715183102e-34
+"D-Arabinono-1,4-lactone","Quercetin3,7-diglucoside",1,5.98823172187913e-17
+9-Oxononanoic acid,"Quercetin3,7-diglucoside",1,1.82175772641369e-19
+Tetradecanedioic acid,"Quercetin3,7-diglucoside",1,1.13178487819238e-21
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid","Quercetin3,7-diglucoside",1,1.53198237222613e-22
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside","Quercetin3,7-diglucoside",1,7.50903403540338e-17
+Genistein-7-O-Glucoside (Genistin),"Quercetin3,7-diglucoside",1,5.64604562524141e-19
+Taxifolin-3'-O-glucoside,"Quercetin3,7-diglucoside",1,3.81796534518227e-24
+Isorhamnetin-3-O-(6''-acetylglucoside),"Quercetin3,7-diglucoside",1,6.23538969116701e-19
+3-O-Feruloylquinic acid-O-glucoside,"Quercetin3,7-diglucoside",1,8.61499670863109e-23
+Olivil-4'-O-glucoside,"Quercetin3,7-diglucoside",1,1.68438326957317e-22
+Myricetin-3-O-rutinoside,"Quercetin3,7-diglucoside",1,1.91028693692746e-29
+"Pinoresinol-4,4'-O-di-O-glucoside","Quercetin3,7-diglucoside",1,1.20413157708548e-21
+Funkioside_C,"Quercetin3,7-diglucoside",1,1.28771118971727e-25
+"9,10-Epoxyoctadecanoic Acid","Quercetin3,7-diglucoside",1,9.32432969275345e-21
+Pennogenin 3-O-beta-chacotrioside,"Quercetin3,7-diglucoside",1,1.01529921817682e-22
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside","Quercetin3,7-diglucoside",1,6.75468729885597e-23
+N-Acetyl-L-leucine,"Quercetin3,7-diglucoside",1,2.45386411431841e-22
+"3,4-Dimethoxybenzamide","Quercetin3,7-diglucoside",1,8.44615836662197e-21
+4-Pyridoxic acid,"Quercetin3,7-diglucoside",1,5.12375452940916e-21
+Oleamide (9-Octadecenamide),"Quercetin3,7-diglucoside",1,3.34690077462348e-23
+"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)","Quercetin3,7-diglucoside",1,1.57332804105455e-24
+6-Methyldiosgenin 3-O-glucopyranoside,"Quercetin3,7-diglucoside",1,2.30925396563861e-20
+Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,"Quercetin3,7-diglucoside",1,1.76551072602743e-26
+"D-Arabinono-1,4-lactone",Baimaside,1,2.47968504460979e-17
+9-Oxononanoic acid,Baimaside,1,4.63139053842191e-21
+Tetradecanedioic acid,Baimaside,1,1.28599076982846e-23
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Baimaside,1,2.8186959185101e-24
+Genistein-7-O-Glucoside (Genistin),Baimaside,1,1.32276332400749e-19
+Taxifolin-3'-O-glucoside,Baimaside,1,2.0669381157413e-28
+Isorhamnetin-3-O-(6''-acetylglucoside),Baimaside,1,2.81631910540277e-20
+3-O-Feruloylquinic acid-O-glucoside,Baimaside,1,9.18498728375744e-25
+Olivil-4'-O-glucoside,Baimaside,1,1.7971920595926e-24
+Myricetin-3-O-rutinoside,Baimaside,1,1.33476532988127e-28
+"Pinoresinol-4,4'-O-di-O-glucoside",Baimaside,1,1.45556711524499e-23
+Funkioside_C,Baimaside,1,1.03504682538818e-25
+"9,10-Epoxyoctadecanoic Acid",Baimaside,1,9.90609744572494e-22
+Pennogenin 3-O-beta-chacotrioside,Baimaside,1,3.94340464433597e-24
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",Baimaside,1,1.50488331673865e-24
+N-Acetyl-L-leucine,Baimaside,1,5.55483347110447e-24
+"3,4-Dimethoxybenzamide",Baimaside,1,4.19827169637002e-22
+4-Pyridoxic acid,Baimaside,1,9.56878646086939e-20
+Oleamide (9-Octadecenamide),Baimaside,1,9.18498728375744e-25
+"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",Baimaside,1,7.9080571407135e-26
+6-Methyldiosgenin 3-O-glucopyranoside,Baimaside,1,4.65204027185299e-20
+Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,Baimaside,1,2.74343265574324e-28
+"Quercetin3,7-diglucoside",Baimaside,1,1.06738156732598e-35
+Uridine 5'-monophosphate disodium salt,Isorhamnetin-3-O-sophoroside,1,9.64152735308715e-20
+Kaempferol-3-O-galactoside (Trifolin),Isorhamnetin-3-O-sophoroside,1,3.27187628498861e-20
+Chrysoeriol-5-O-glucoside,Isorhamnetin-3-O-sophoroside,1,1.50526066338332e-17
+Quercetin-7-O-glucoside,Isorhamnetin-3-O-sophoroside,1,2.46316721924496e-18
+Quercetin-3-O-glucoside (Isoquercitrin),Isorhamnetin-3-O-sophoroside,1,2.44920861203866e-17
+6-Hydroxyluteolin 5-glucoside,Isorhamnetin-3-O-sophoroside,1,1.98308785048012e-17
+Kaempferol-3-O-glucoside (Astragalin),Isorhamnetin-3-O-sophoroside,1,8.91315652114668e-17
+Isohyperoside,Isorhamnetin-3-O-sophoroside,1,1.21482434786874e-21
+Isoquercetin,Isorhamnetin-3-O-sophoroside,1,1.01228296400004e-20
+Nepetin-7-O-glucoside,Isorhamnetin-3-O-sophoroside,1,3.84470405089347e-21
+3-Hydroxybutyric acid,Prosapogenin A,1,2.86122793464267e-20
+9-Oxononanoic acid,Prosapogenin A,1,3.85801537779514e-20
+Tetradecanedioic acid,Prosapogenin A,1,4.51562373161057e-21
+"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid",Prosapogenin A,1,6.80870752084513e-21
+"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside",Prosapogenin A,1,1.1307617228808e-18
+Genistein-7-O-Glucoside (Genistin),Prosapogenin A,1,3.53939340522035e-20
+3-O-Feruloylquinic acid-O-glucoside,Prosapogenin A,1,1.1259965644775e-20
+Olivil-4'-O-glucoside,Prosapogenin A,1,2.08161738945008e-20
+"Pinoresinol-4,4'-O-di-O-glucoside",Prosapogenin A,1,1.34271315414878e-19
+Funkioside_C,Prosapogenin A,1,4.90469231044556e-22
+"9,10-Epoxyoctadecanoic Acid",Prosapogenin A,1,6.67740288952953e-22
+Pennogenin 3-O-beta-chacotrioside,Prosapogenin A,1,3.34690077462348e-23
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",Prosapogenin A,1,7.316522037651e-24
+N-Acetyl-L-leucine,Prosapogenin A,1,2.31949607512055e-21
+"3,4-Dimethoxybenzamide",Prosapogenin A,1,8.54310172515833e-18
+4-Pyridoxic acid,Prosapogenin A,1,1.26967749731393e-21
+Oleamide (9-Octadecenamide),Prosapogenin A,1,1.23648546254433e-21
+"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)",Prosapogenin A,1,7.33123159547267e-20
+Diosgenin glucoside,Prosapogenin A,1,2.35758134703203e-19
+6-Methyldiosgenin 3-O-glucopyranoside,Prosapogenin A,1,3.008324939005e-27
+Isorhamnetin-3-O-(2''-O-xylosyl)glucoside,Prosapogenin A,1,8.6650469950977e-22
+Borassoside D,Prosapogenin D3,1,1.73320332602798e-29
+Solasodine 3-O-β-D-glucopyranoside,Solasonine,1,3.80840716596945e-40
+6-Methyldiosgenin 3-O-glucopyranoside,Sceptrumgenin 3-O-Glucoside-Rhamnoside-Rhamnoside-Glucoside,1,1.66194987858765e-16
+Prosapogenin A,Sceptrumgenin 3-O-Glucoside-Rhamnoside-Rhamnoside-Glucoside,1,1.85355305652589e-16
+1.10 Biosynthesis of other secondary metabolites,1.11 Xenobiotics biodegradation and metabolism,-1,4.36852388256474e-18
+Bacteroidetes,3.1 Membrane transport,-1,6.37717466374056e-24
+1.7 Glycan biosynthesis and metabolism,3.1 Membrane transport,-1,1.27293345241351e-24
+2.2 Translation,3.2 Signal transduction,-1,1.46779703033198e-17
+2.4 Replication and repair,3.2 Signal transduction,-1,6.38620938351631e-18
+3.1 Membrane transport,4.1 Transport and catabolism,-1,1.47235779199031e-16
+3.2 Signal transduction,4.2 Cell growth and death,-1,2.30246845558996e-16
+Bacteroidetes,4.4 Cellular community - prokaryotes,-1,9.30843676662429e-23
+1.7 Glycan biosynthesis and metabolism,4.4 Cellular community - prokaryotes,-1,2.11223385436905e-22

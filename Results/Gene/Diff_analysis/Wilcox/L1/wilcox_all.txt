@@ -1,0 +1,7 @@
+"V1"	"p.value"
+"1. Metabolism"	"0.728342776701101"
+"2. Genetic Information Processing"	"0.0942294301909441"
+"3. Environmental Information Processing"	"0.0762382157145158"
+"4. Cellular Processes"	"0.831141432576995"
+"5. Organismal Systems"	"7.91455400411461e-05"
+"6. Human Diseases"	"0.319657498992003"

@@ -1,0 +1,11 @@
+"variable"	"Group"	"Mean"
+"Actinobacteria"	"Control"	0.97611607358014
+"Actinobacteria"	"Disease"	0.473483552440161
+"Betaproteobacteria"	"Control"	2.65582740635816
+"Betaproteobacteria"	"Disease"	1.18486395261248
+"Coriobacteriia"	"Control"	0.933709632295398
+"Coriobacteriia"	"Disease"	0.360642680258631
+"Gammaproteobacteria"	"Control"	41.3071788724325
+"Gammaproteobacteria"	"Disease"	22.060595637839
+"Negativicutes"	"Control"	0.633075572049902
+"Negativicutes"	"Disease"	1.04241203431207

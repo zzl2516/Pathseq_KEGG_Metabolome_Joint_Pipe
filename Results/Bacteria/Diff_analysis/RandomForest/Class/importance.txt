@@ -1,0 +1,4 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Bacteroidia"	9.018	9.8292	12.3289	4.3105
+"Coriobacteriia"	7.0115	11.4875	11.3845	3.4475
+"Bacilli"	6.2021	6.6182	8.6084	2.3999

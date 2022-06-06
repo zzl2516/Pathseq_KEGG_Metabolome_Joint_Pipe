@@ -1,2 +1,25 @@
 # Pathseq_KEGG_Metabolome_Joint_Pipe
 宏基因组+医学宏病毒组+代谢组联合分析
+
+流程基于R4.0.2及以上版本制作
+
+输入文件中细菌和病毒的丰度文件bacteria.tpm.xls和virus.tpm.xls来自宏病毒组测序的Pathseq注释结果
+
+功能基因的文件kegg.*.xls来自宏基因组的KEGG注释结果
+
+代谢组的文件metabolite_abundance.txt来自于非靶向代谢组的代谢物识别丰度文件
+
+细菌和病毒的丰度文件也可以使用宏基因组karken2的注释结果，但是没有进行测试，可能需要对输入文件的格式进行修改，如有客户需求可以联系我进行代码升级
+
+细菌的丰度文件也可以使用16S扩增子测序的OTU丰度表，但输入文件的格式需要进行修改，如有客户需求可以联系我进行代码升级
+
+代码运行顺序：
+1.Pipeline_bacteria.R
+2.Pipeline_virus.R
+3.Pipeline_kegg.R
+4.Pipeline_metabolites.R
+5.Association_analysis_metagenome_and_virome.R
+6.Association_analysis_metagenome_virome_metabolites.R
+
+注：本流程可以进行细菌、病毒、功能基因和代谢物4者的关联分析，也可以只进行宏基因组与宏病毒组的关联分析
+注：如果客户没有测定代谢组，只进行宏基因组与宏病毒组关联分析，不运行4和6的代码即可。

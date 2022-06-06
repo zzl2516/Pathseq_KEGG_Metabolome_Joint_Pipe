@@ -1,0 +1,4 @@
+"Comparison"	"Mantel_r"	"Mantel_p"	"Proc_r"	"Proc_p"
+"Bacteria vs Virus"	0.25771034182324	0.001	0.831991372674289	0.001
+"Bacteria vs Function"	0.699804852720238	0.001	0.369657124125231	0.001
+"Virus vs Function"	0.092045617455836	0.058	0.889440168865278	0.001

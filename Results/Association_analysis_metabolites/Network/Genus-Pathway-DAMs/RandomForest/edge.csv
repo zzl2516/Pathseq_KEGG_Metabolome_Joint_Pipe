@@ -1,0 +1,459 @@
+Source,Target,R,P
+Angelakisella,Clostridium,1,3.51907640361983e-17
+Alistipes,Culturomica,1,5.90855367541904e-21
+Blautia,Dorea,1,2.31647011815579e-17
+Angelakisella,Emergencia,1,2.46316721924496e-18
+Clostridium,Emergencia,1,1.47235779199031e-16
+Citrobacter,Enterobacter,1,5.2210243673863e-19
+Achromobacter,Escherichia,1,9.68423003346902e-54
+Angelakisella,Eubacterium,1,6.10023048944451e-22
+Clostridium,Eubacterium,1,1.117758249292e-17
+Dorea,Eubacterium,1,1.85150289715609e-17
+Emergencia,Eubacterium,1,8.3888537253755e-24
+Blautia,Fusicatenibacter,1,1.92139957061684e-20
+Dorea,Fusicatenibacter,1,8.86988365338706e-20
+Angelakisella,Intestinimonas,1,7.70776986406414e-37
+Eubacterium,Intestinimonas,1,5.28539596494204e-18
+Angelakisella,Massilioclostridium,1,1.30225576795222e-32
+Dorea,Massilioclostridium,1,2.31559110587502e-16
+Emergencia,Massilioclostridium,1,2.34035514866044e-19
+Eubacterium,Massilioclostridium,1,3.65669537633028e-24
+Intestinimonas,Massilioclostridium,1,8.20053119889791e-25
+Angelakisella,Megasphaera,1,7.03912205816748e-18
+Emergencia,Megasphaera,1,3.77724197167931e-18
+Eubacterium,Megasphaera,1,1.01658498895327e-19
+Massilioclostridium,Megasphaera,1,2.28709697908378e-18
+Angelakisella,Negativibacillus,1,2.4007968753187e-23
+Intestinimonas,Negativibacillus,1,8.20721686403381e-23
+Massilioclostridium,Negativibacillus,1,1.0689885797373e-17
+Angelakisella,Oscillibacter,1,4.78841853358085e-23
+Intestinimonas,Oscillibacter,1,4.11468912900885e-29
+Negativibacillus,Oscillibacter,1,1.51030499582201e-18
+Culturomica,Prevotella,1,4.72489682141595e-20
+Porphyromonas,Prevotella,1,1.65241229426764e-16
+Culturomica,Prevotellamassilia,1,3.05429476535094e-21
+Mediterranea,Prevotellamassilia,1,4.09341947323947e-19
+Prevotella,Prevotellamassilia,1,8.51617988658534e-21
+Angelakisella,Roseburia,1,6.36917606911477e-19
+Dorea,Roseburia,1,2.1875398472267e-16
+Fusicatenibacter,Roseburia,1,9.40674224026079e-18
+Lachnospira,Roseburia,1,1.59402672700933e-19
+Massilioclostridium,Roseburia,1,2.93511144312674e-19
+Blautia,Ruminococcus,1,2.56761252860175e-30
+Fusicatenibacter,Ruminococcus,1,1.07176102520504e-19
+Achromobacter,Shigella,1,1.55261980483831e-54
+Escherichia,Shigella,1,1.53054256577357e-59
+Ruthenibacterium,Subdoligranulum,1,3.28164217600593e-45
+Culturomica,Tannerella,1,1.61331639203392e-27
+Prevotellamassilia,Tannerella,1,1.73021144282934e-16
+Alistipes,Tidjanibacter,1,2.30478283950021e-17
+Bacteroides,Amino sugar and nucleotide sugar metabolism,1,7.39407091172545e-24
+Aminoacyl-tRNA biosynthesis,Base excision repair,1,1.65493864009716e-26
+Citrobacter,Biofilm formation - Escherichia coli,1,1.25168790696625e-16
+Arginine and proline metabolism,Biofilm formation - Pseudomonas aeruginosa,1,3.90291221272237e-17
+Ascorbate and aldarate metabolism,Biofilm formation - Pseudomonas aeruginosa,1,1.4876370981512e-21
+Biofilm formation - Escherichia coli,Biofilm formation - Pseudomonas aeruginosa,1,1.64913409039286e-20
+Ascorbate and aldarate metabolism,Biofilm formation - Vibrio cholerae,1,7.85177466228798e-22
+Arginine biosynthesis,Biosynthesis of amino acids,1,2.98305617560387e-17
+"Alanine, aspartate and glutamate metabolism",Biosynthesis of antibiotics,1,8.65367715929331e-18
+Biosynthesis of amino acids,Biosynthesis of antibiotics,1,2.0806939688857e-19
+"Alanine, aspartate and glutamate metabolism",Biosynthesis of secondary metabolites,1,1.97401361389281e-16
+Biosynthesis of amino acids,Biosynthesis of secondary metabolites,1,1.21482434786874e-21
+Biosynthesis of antibiotics,Biosynthesis of secondary metabolites,1,8.12025486004554e-42
+Emergencia,Carbon fixation in photosynthetic organisms,1,5.6741046766306e-17
+Aminoacyl-tRNA biosynthesis,Carbon fixation in photosynthetic organisms,1,3.65360115137714e-21
+Base excision repair,Carbon fixation in photosynthetic organisms,1,5.2210243673863e-19
+Porphyromonas,Carbon fixation pathways in prokaryotes,1,1.0689885797373e-17
+Carbon fixation pathways in prokaryotes,Carbon metabolism,1,6.51194000512794e-18
+Ascorbate and aldarate metabolism,Cationic antimicrobial peptide (CAMP) resistance,1,1.98451628434224e-21
+Biofilm formation - Vibrio cholerae,Cationic antimicrobial peptide (CAMP) resistance,1,2.00527008320364e-29
+Aminoacyl-tRNA biosynthesis,Cell cycle - Caulobacter,1,4.8925960684971e-29
+Base excision repair,Cell cycle - Caulobacter,1,6.06121469526927e-19
+Arginine biosynthesis,Cysteine and methionine metabolism,1,6.95111161152228e-17
+Biosynthesis of amino acids,Cysteine and methionine metabolism,1,3.32376961519688e-20
+Aminoacyl-tRNA biosynthesis,D-Alanine metabolism,1,8.55888928327681e-19
+Base excision repair,D-Alanine metabolism,1,1.32546312921642e-18
+Prevotella,D-Glutamine and D-glutamate metabolism,1,2.53559760136804e-16
+Aminoacyl-tRNA biosynthesis,D-Glutamine and D-glutamate metabolism,1,2.03122550086051e-16
+Antifolate resistance,D-Glutamine and D-glutamate metabolism,1,9.83798207285992e-18
+Cell cycle - Caulobacter,D-Glutamine and D-glutamate metabolism,1,2.93511144312674e-19
+Angelakisella,DNA replication,1,1.82175772641369e-19
+Emergencia,DNA replication,1,2.69837098829971e-16
+Intestinimonas,DNA replication,1,1.07987525960983e-19
+Massilioclostridium,DNA replication,1,2.63450664729344e-18
+Aminoacyl-tRNA biosynthesis,DNA replication,1,1.40126676988371e-25
+Base excision repair,DNA replication,1,1.57117549422691e-20
+Cell cycle - Caulobacter,DNA replication,1,4.29240808668116e-21
+Citrobacter,Degradation of aromatic compounds,1,1.13862122456692e-18
+Biofilm formation - Escherichia coli,Degradation of aromatic compounds,1,4.11658806297408e-18
+Biofilm formation - Pseudomonas aeruginosa,Degradation of aromatic compounds,1,6.46976722668438e-18
+Degradation of aromatic compounds,Fatty acid degradation,1,3.14553850122593e-20
+Bacterial chemotaxis,Flagellar assembly,1,5.21323608613698e-33
+GABAergic synapse,Glutamatergic synapse,1,2.49271946696351e-32
+Ascorbate and aldarate metabolism,Glutathione metabolism,1,1.10360965511004e-17
+Biofilm formation - Vibrio cholerae,Glutathione metabolism,1,1.55853288945323e-20
+Cationic antimicrobial peptide (CAMP) resistance,Glutathione metabolism,1,5.54581243298442e-29
+Citrate cycle (TCA cycle),"Glycine, serine and threonine metabolism",1,1.34205678348603e-16
+Bacteroides,Glycosaminoglycan degradation,1,3.35001304017052e-20
+Amino sugar and nucleotide sugar metabolism,Glycosaminoglycan degradation,1,1.01895991936697e-18
+Central carbon metabolism in cancer,Glycosaminoglycan degradation,1,2.98305617560387e-17
+GABAergic synapse,Glycosaminoglycan degradation,1,3.87747811953855e-21
+Bacteroides,Glycosphingolipid biosynthesis - ganglio series,1,3.49311263441712e-19
+Amino sugar and nucleotide sugar metabolism,Glycosphingolipid biosynthesis - ganglio series,1,5.32010731867371e-18
+Central carbon metabolism in cancer,Glycosphingolipid biosynthesis - ganglio series,1,1.52429110161173e-16
+GABAergic synapse,Glycosphingolipid biosynthesis - ganglio series,1,2.10883027506778e-21
+Glycosaminoglycan degradation,Glycosphingolipid biosynthesis - ganglio series,1,9.99756379064037e-60
+Bacteroides,Glycosphingolipid biosynthesis - globo and isoglobo series,1,4.99498089676041e-22
+Amino sugar and nucleotide sugar metabolism,Glycosphingolipid biosynthesis - globo and isoglobo series,1,9.04230515913723e-23
+GABAergic synapse,Glycosphingolipid biosynthesis - globo and isoglobo series,1,1.56800360445268e-21
+Glutamatergic synapse,Glycosphingolipid biosynthesis - globo and isoglobo series,1,2.80522692662146e-17
+Glycosaminoglycan degradation,Glycosphingolipid biosynthesis - globo and isoglobo series,1,2.38323738741938e-44
+Glycosphingolipid biosynthesis - ganglio series,Glycosphingolipid biosynthesis - globo and isoglobo series,1,3.45363711679919e-45
+Aminoacyl-tRNA biosynthesis,HIF-1 signaling pathway,1,1.60866865699673e-24
+Base excision repair,HIF-1 signaling pathway,1,1.20170747563057e-16
+Cell cycle - Caulobacter,HIF-1 signaling pathway,1,1.08269638995813e-21
+"Alanine, aspartate and glutamate metabolism",Histidine metabolism,1,5.1059976877418e-20
+Aminoacyl-tRNA biosynthesis,Homologous recombination,1,4.05022594924696e-29
+Base excision repair,Homologous recombination,1,1.54660200489619e-22
+Cell cycle - Caulobacter,Homologous recombination,1,6.53106240843504e-21
+D-Alanine metabolism,Homologous recombination,1,2.05860955428535e-17
+DNA replication,Homologous recombination,1,5.59659660152308e-31
+Biosynthesis of amino acids,Lysine biosynthesis,1,1.65277712090614e-22
+Biosynthesis of antibiotics,Lysine biosynthesis,1,3.77701545111951e-24
+Biosynthesis of secondary metabolites,Lysine biosynthesis,1,2.57691197312865e-23
+Bacteroides,Lysosome,1,5.49755856696656e-23
+Amino sugar and nucleotide sugar metabolism,Lysosome,1,5.51665539179162e-20
+Central carbon metabolism in cancer,Lysosome,1,1.21176591517913e-18
+GABAergic synapse,Lysosome,1,6.98072376542397e-21
+Glycosaminoglycan degradation,Lysosome,1,1.19080476559836e-61
+Glycosphingolipid biosynthesis - ganglio series,Lysosome,1,5.54418948679437e-52
+Glycosphingolipid biosynthesis - globo and isoglobo series,Lysosome,1,2.15909161006384e-47
+Ascorbate and aldarate metabolism,Microbial metabolism in diverse environments,1,5.48777159057732e-19
+Degradation of aromatic compounds,Microbial metabolism in diverse environments,1,9.82947054415952e-25
+Fatty acid degradation,Microbial metabolism in diverse environments,1,8.65790673460483e-21
+Aminoacyl-tRNA biosynthesis,Mismatch repair,1,9.50346533027923e-26
+Base excision repair,Mismatch repair,1,2.65039851577752e-19
+Cell cycle - Caulobacter,Mismatch repair,1,1.28093136274857e-21
+DNA replication,Mismatch repair,1,2.39453630321844e-32
+Homologous recombination,Mismatch repair,1,1.68892014307878e-43
+Fluid shear stress and atherosclerosis,NOD-like receptor signaling pathway,1,3.80912841892436e-17
+Angelakisella,Necroptosis,1,6.6400528446493e-18
+Massilioclostridium,Necroptosis,1,4.61601944949006e-20
+Arginine and proline metabolism,Nitrogen metabolism,1,1.50074970023318e-21
+Ascorbate and aldarate metabolism,Nitrogen metabolism,1,1.06331724557996e-20
+Biofilm formation - Pseudomonas aeruginosa,Nitrogen metabolism,1,2.67012594333983e-18
+Biofilm formation - Vibrio cholerae,Nitrogen metabolism,1,2.9524581199087e-18
+Intestinimonas,Nucleotide excision repair,1,1.65241229426764e-16
+Aminoacyl-tRNA biosynthesis,Nucleotide excision repair,1,2.04723009509124e-46
+Base excision repair,Nucleotide excision repair,1,9.30237688523199e-28
+Carbon fixation in photosynthetic organisms,Nucleotide excision repair,1,4.36664941521712e-19
+Cell cycle - Caulobacter,Nucleotide excision repair,1,7.11938564969073e-30
+D-Alanine metabolism,Nucleotide excision repair,1,3.37182431515833e-17
+D-Glutamine and D-glutamate metabolism,Nucleotide excision repair,1,1.70063253440625e-16
+DNA replication,Nucleotide excision repair,1,1.10569440164564e-31
+HIF-1 signaling pathway,Nucleotide excision repair,1,6.04523660513208e-22
+Homologous recombination,Nucleotide excision repair,1,1.18884039777905e-30
+Mismatch repair,Nucleotide excision repair,1,9.98794853481991e-29
+Prevotella,One carbon pool by folate,1,1.97603800099266e-19
+Antifolate resistance,One carbon pool by folate,1,1.0131636634536e-30
+Carbon fixation pathways in prokaryotes,One carbon pool by folate,1,3.3072123799854e-18
+Cell cycle - Caulobacter,One carbon pool by folate,1,1.14026271480389e-16
+D-Glutamine and D-glutamate metabolism,One carbon pool by folate,1,9.79581649681294e-21
+Bacteroides,Other glycan degradation,1,1.54290499734419e-25
+Amino sugar and nucleotide sugar metabolism,Other glycan degradation,1,7.62163553898569e-26
+GABAergic synapse,Other glycan degradation,1,7.24164727364674e-22
+Glutamatergic synapse,Other glycan degradation,1,2.16672865553835e-18
+Glycosaminoglycan degradation,Other glycan degradation,1,2.50892937261523e-36
+Glycosphingolipid biosynthesis - ganglio series,Other glycan degradation,1,1.23556099335803e-36
+Glycosphingolipid biosynthesis - globo and isoglobo series,Other glycan degradation,1,2.58153491995945e-47
+Lysosome,Other glycan degradation,1,2.64429115249098e-41
+Aminoacyl-tRNA biosynthesis,Peptidoglycan biosynthesis,1,9.98794853481991e-29
+Base excision repair,Peptidoglycan biosynthesis,1,8.03457776410218e-20
+Carbon fixation in photosynthetic organisms,Peptidoglycan biosynthesis,1,6.94877083461006e-20
+Cell cycle - Caulobacter,Peptidoglycan biosynthesis,1,1.37802403913867e-17
+D-Alanine metabolism,Peptidoglycan biosynthesis,1,7.2895300584914e-17
+DNA replication,Peptidoglycan biosynthesis,1,9.94463639327697e-27
+Homologous recombination,Peptidoglycan biosynthesis,1,4.77680266297307e-27
+Mismatch repair,Peptidoglycan biosynthesis,1,4.51752067619793e-22
+Nucleotide excision repair,Peptidoglycan biosynthesis,1,1.80304571323954e-25
+Arginine and proline metabolism,Phenylalanine metabolism,1,1.74347938121093e-18
+Ascorbate and aldarate metabolism,Phenylalanine metabolism,1,2.8485405302622e-22
+Biofilm formation - Escherichia coli,Phenylalanine metabolism,1,9.7050641675816e-19
+Biofilm formation - Pseudomonas aeruginosa,Phenylalanine metabolism,1,4.62447556857791e-17
+Biofilm formation - Vibrio cholerae,Phenylalanine metabolism,1,1.94403690536573e-18
+Cationic antimicrobial peptide (CAMP) resistance,Phenylalanine metabolism,1,2.98305617560387e-17
+Degradation of aromatic compounds,Phenylalanine metabolism,1,6.88379591069269e-19
+Microbial metabolism in diverse environments,Phenylalanine metabolism,1,2.59366382919959e-16
+Nitrogen metabolism,Phenylalanine metabolism,1,1.561356282129e-22
+Biosynthesis of amino acids,"Phenylalanine, tyrosine and tryptophan biosynthesis",1,1.12705171608468e-31
+Biosynthesis of secondary metabolites,"Phenylalanine, tyrosine and tryptophan biosynthesis",1,3.4763844259245e-17
+Lysine biosynthesis,"Phenylalanine, tyrosine and tryptophan biosynthesis",1,7.6437748933446e-17
+Cyanoamino acid metabolism,Phenylpropanoid biosynthesis,1,1.1508559653574e-34
+Biofilm formation - Vibrio cholerae,Phosphonate and phosphinate metabolism,1,1.63816138550684e-21
+Cationic antimicrobial peptide (CAMP) resistance,Phosphonate and phosphinate metabolism,1,3.24919173610851e-19
+ABC transporters,Phosphotransferase system (PTS),1,1.22016715656563e-18
+Ascorbate and aldarate metabolism,Phosphotransferase system (PTS),1,7.27070554824603e-18
+Biofilm formation - Escherichia coli,Phosphotransferase system (PTS),1,2.40416909037856e-17
+Biofilm formation - Pseudomonas aeruginosa,Phosphotransferase system (PTS),1,1.79450930143232e-17
+Degradation of aromatic compounds,Phosphotransferase system (PTS),1,2.21804501198004e-17
+Microbial metabolism in diverse environments,Phosphotransferase system (PTS),1,9.52805994680449e-18
+Arginine biosynthesis,Photosynthesis,1,1.12981878061913e-19
+Biosynthesis of amino acids,Photosynthesis,1,3.87926004356402e-17
+Cysteine and methionine metabolism,Photosynthesis,1,2.09740127445637e-17
+Ascorbate and aldarate metabolism,Propanoate metabolism,1,3.83670493103048e-19
+Microbial metabolism in diverse environments,Propanoate metabolism,1,7.39855468568483e-21
+Phosphotransferase system (PTS),Propanoate metabolism,1,4.97157455312822e-17
+Aminoacyl-tRNA biosynthesis,Protein export,1,4.77220661933014e-22
+Base excision repair,Protein export,1,3.56227280166116e-17
+Cell cycle - Caulobacter,Protein export,1,8.53917586965695e-28
+D-Glutamine and D-glutamate metabolism,Protein export,1,6.34482117131046e-18
+DNA replication,Protein export,1,4.06253400404422e-18
+HIF-1 signaling pathway,Protein export,1,9.28307861991185e-20
+Homologous recombination,Protein export,1,5.60252470550152e-20
+Legionellosis,Protein export,1,1.08963359339652e-17
+Mismatch repair,Protein export,1,1.4748267394932e-22
+Nucleotide excision repair,Protein export,1,2.19137764790875e-23
+Homologous recombination,Pyrimidine metabolism,1,1.18689526798047e-18
+ABC transporters,Quorum sensing,1,2.00815189283952e-16
+Antifolate resistance,RNA degradation,1,2.66204500025144e-26
+Cell cycle - Caulobacter,RNA degradation,1,1.16125980516098e-17
+D-Glutamine and D-glutamate metabolism,RNA degradation,1,1.0143535881215e-16
+One carbon pool by folate,RNA degradation,1,1.47463509124013e-21
+Protein export,RNA degradation,1,3.67250834867256e-17
+Aminoacyl-tRNA biosynthesis,RNA polymerase,1,2.19710493748301e-37
+Base excision repair,RNA polymerase,1,2.50014581413768e-22
+Carbon fixation in photosynthetic organisms,RNA polymerase,1,2.71365709328751e-16
+Cell cycle - Caulobacter,RNA polymerase,1,2.12055142066661e-24
+D-Alanine metabolism,RNA polymerase,1,1.79086099916615e-16
+DNA replication,RNA polymerase,1,9.84118923068261e-19
+HIF-1 signaling pathway,RNA polymerase,1,1.25876464111837e-24
+Homologous recombination,RNA polymerase,1,4.08597204504453e-23
+Mismatch repair,RNA polymerase,1,1.26967749731393e-21
+Nucleotide excision repair,RNA polymerase,1,3.49908646540105e-30
+Peptidoglycan biosynthesis,RNA polymerase,1,6.55945163840705e-23
+Protein export,RNA polymerase,1,2.57691197312865e-23
+Aminoacyl-tRNA biosynthesis,Ribosome,1,9.27810920817665e-35
+Base excision repair,Ribosome,1,5.38015265185125e-24
+Cell cycle - Caulobacter,Ribosome,1,5.54540183156326e-28
+DNA replication,Ribosome,1,3.0889782466269e-23
+HIF-1 signaling pathway,Ribosome,1,9.50195105388942e-25
+Homologous recombination,Ribosome,1,7.15332359864617e-25
+Mismatch repair,Ribosome,1,4.93913963839445e-26
+Nucleotide excision repair,Ribosome,1,1.09519050144909e-35
+Peptidoglycan biosynthesis,Ribosome,1,1.09628178180846e-19
+Protein export,Ribosome,1,2.07951026447154e-32
+RNA polymerase,Ribosome,1,1.02122565612439e-34
+NOD-like receptor signaling pathway,Salmonella infection,1,4.93748332786785e-35
+Bacteroides,Sphingolipid metabolism,1,1.48822693385797e-24
+Amino sugar and nucleotide sugar metabolism,Sphingolipid metabolism,1,2.1913584264646e-27
+GABAergic synapse,Sphingolipid metabolism,1,9.84118923068261e-19
+Glutamatergic synapse,Sphingolipid metabolism,1,2.09740127445637e-17
+Glycosaminoglycan degradation,Sphingolipid metabolism,1,8.01626337737528e-25
+Glycosphingolipid biosynthesis - ganglio series,Sphingolipid metabolism,1,2.78815189696981e-24
+Glycosphingolipid biosynthesis - globo and isoglobo series,Sphingolipid metabolism,1,4.51333921837912e-36
+Lysosome,Sphingolipid metabolism,1,5.54581243298442e-29
+Other glycan degradation,Sphingolipid metabolism,1,8.50725618211122e-44
+Polyketide sugar unit biosynthesis,Streptomycin biosynthesis,1,8.22624990386797e-35
+Ascorbate and aldarate metabolism,Sulfur metabolism,1,4.56894152836131e-17
+Biofilm formation - Pseudomonas aeruginosa,Sulfur metabolism,1,5.88914409833308e-23
+Degradation of aromatic compounds,Sulfur metabolism,1,5.37042126795905e-25
+Microbial metabolism in diverse environments,Sulfur metabolism,1,1.5631874763673e-17
+Phenylalanine metabolism,Sulfur metabolism,1,2.30215630969401e-17
+ABC transporters,Sulfur relay system,1,5.61413303214264e-27
+Quorum sensing,Sulfur relay system,1,1.63348287259334e-17
+Aminoacyl-tRNA biosynthesis,Terpenoid backbone biosynthesis,1,4.68261215969347e-24
+Base excision repair,Terpenoid backbone biosynthesis,1,3.35127870132115e-17
+Cell cycle - Caulobacter,Terpenoid backbone biosynthesis,1,8.76563016545105e-18
+D-Alanine metabolism,Terpenoid backbone biosynthesis,1,1.09224185800535e-18
+Homologous recombination,Terpenoid backbone biosynthesis,1,2.42183452825391e-21
+Mismatch repair,Terpenoid backbone biosynthesis,1,5.42556375387621e-18
+Nucleotide excision repair,Terpenoid backbone biosynthesis,1,2.69384240421211e-22
+Peptidoglycan biosynthesis,Terpenoid backbone biosynthesis,1,6.64509621498428e-19
+RNA polymerase,Terpenoid backbone biosynthesis,1,4.79018230519381e-18
+Ribosome,Terpenoid backbone biosynthesis,1,4.31128618807263e-18
+Aminoacyl-tRNA biosynthesis,Thiamine metabolism,1,8.9937350392098e-18
+Cell cycle - Caulobacter,Thiamine metabolism,1,6.28145093733026e-17
+Nucleotide excision repair,Thiamine metabolism,1,1.18361742477705e-17
+Lysine degradation,Tryptophan metabolism,1,3.14553850122593e-20
+Aminoacyl-tRNA biosynthesis,Tuberculosis,1,1.11935419630344e-26
+Base excision repair,Tuberculosis,1,2.62317449876786e-16
+Cell cycle - Caulobacter,Tuberculosis,1,1.0127232152568e-23
+DNA replication,Tuberculosis,1,6.69218884775076e-19
+HIF-1 signaling pathway,Tuberculosis,1,5.7541521437747e-18
+Homologous recombination,Tuberculosis,1,8.20637711002828e-17
+Mismatch repair,Tuberculosis,1,1.35771599611671e-16
+Nucleotide excision repair,Tuberculosis,1,6.02719658585689e-26
+Peptidoglycan biosynthesis,Tuberculosis,1,3.26343735828289e-18
+RNA polymerase,Tuberculosis,1,1.21716645187729e-24
+Ribosome,Tuberculosis,1,3.73572789392523e-23
+Biofilm formation - Vibrio cholerae,Two-component system,1,2.65225869408046e-18
+Arginine and proline metabolism,Tyrosine metabolism,1,6.51038290277692e-17
+Biofilm formation - Escherichia coli,Tyrosine metabolism,1,3.22572312043792e-19
+Biofilm formation - Pseudomonas aeruginosa,Tyrosine metabolism,1,7.46017984556247e-21
+Degradation of aromatic compounds,Tyrosine metabolism,1,2.34829199290741e-27
+Microbial metabolism in diverse environments,Tyrosine metabolism,1,1.36561137683543e-16
+Phenylalanine metabolism,Tyrosine metabolism,1,7.92390167024906e-19
+Phosphotransferase system (PTS),Tyrosine metabolism,1,8.6650469950977e-22
+Sulfur metabolism,Tyrosine metabolism,1,1.51674704662963e-23
+Cationic antimicrobial peptide (CAMP) resistance,Ubiquinone and other terpenoid-quinone biosynthesis,1,5.39037580593188e-23
+Glutathione metabolism,Ubiquinone and other terpenoid-quinone biosynthesis,1,7.2829936774834e-19
+2-Oxocarboxylic acid metabolism,"Valine, leucine and isoleucine biosynthesis",1,2.16673162289958e-33
+Emergencia,Vancomycin resistance,1,1.85150289715609e-17
+Aminoacyl-tRNA biosynthesis,Vancomycin resistance,1,2.61686908851214e-18
+Base excision repair,Vancomycin resistance,1,2.28940143261541e-19
+Carbon fixation in photosynthetic organisms,Vancomycin resistance,1,1.96817197080287e-20
+DNA replication,Vancomycin resistance,1,4.90469231044556e-22
+Homologous recombination,Vancomycin resistance,1,1.31003547881351e-17
+Mismatch repair,Vancomycin resistance,1,4.94171763980024e-17
+Nucleotide excision repair,Vancomycin resistance,1,1.4796376374429e-19
+Peptidoglycan biosynthesis,Vancomycin resistance,1,3.696384691155e-24
+Bacteroides,Various types of N-glycan biosynthesis,1,3.72765702084793e-19
+Amino sugar and nucleotide sugar metabolism,Various types of N-glycan biosynthesis,1,4.19897008110012e-18
+GABAergic synapse,Various types of N-glycan biosynthesis,1,2.44281864723079e-21
+Glycosaminoglycan degradation,Various types of N-glycan biosynthesis,1,1.76183315262407e-59
+Glycosphingolipid biosynthesis - ganglio series,Various types of N-glycan biosynthesis,1,7.14580495135493e-98
+Glycosphingolipid biosynthesis - globo and isoglobo series,Various types of N-glycan biosynthesis,1,8.13105365052874e-45
+Lysosome,Various types of N-glycan biosynthesis,1,2.57369229098936e-51
+Other glycan degradation,Various types of N-glycan biosynthesis,1,4.28065795119209e-36
+Sphingolipid metabolism,Various types of N-glycan biosynthesis,1,6.37717466374056e-24
+Cationic antimicrobial peptide (CAMP) resistance,beta-Alanine metabolism,1,2.67035510914206e-17
+Tryptophan metabolism,beta-Alanine metabolism,1,2.70620892855731e-18
+Ubiquinone and other terpenoid-quinone biosynthesis,beta-Alanine metabolism,1,4.17153955910347e-20
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",Maslinic acid,1,3.16073693307625e-63
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",2α-Hydroxyursolic acid,1,3.79254171322455e-63
+Maslinic acid,2α-Hydroxyursolic acid,1,8.05297151503504e-65
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit","2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,1.3030994111783e-19
+Maslinic acid,"2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,2.76899793773511e-19
+2α-Hydroxyursolic acid,"2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,3.1334720334602e-19
+Pennogenin 3-O-beta-chacotrioside,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,3.77997095987731e-77
+Pennogenin 3-O-beta-chacotrioside,7-Methoxy-5-Prenyloxycoumarin,1,1.80116607866388e-16
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",7-Methoxy-5-Prenyloxycoumarin,1,2.12609631831437e-16
+Solasodine 3-O-β-D-glucopyranoside,Khasianine,1,1.55744303892267e-31
+Pennogenin 3-O-beta-chacotrioside,Prosapogenin A,1,3.34690077462348e-23
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",Prosapogenin A,1,7.316522037651e-24
+Solasodine-3-O-(2''-xyloyl)glucoside,Prosapogenin A,1,2.43021202264362e-18
+Solasodine-3-O-(2''-xyloyl)glucoside,Sceptrumgenin 3-O-Glucoside-Rhamnoside-Rhamnoside-Glucoside,1,1.12134297771149e-19
+Prosapogenin A,Sceptrumgenin 3-O-Glucoside-Rhamnoside-Rhamnoside-Glucoside,1,1.85355305652589e-16
+Bacteroides,ABC transporters,-1,4.42649314451111e-18
+Prevotella,ABC transporters,-1,2.63805068482463e-16
+ABC transporters,Amino sugar and nucleotide sugar metabolism,-1,5.39022662295059e-20
+ABC transporters,Antifolate resistance,-1,2.1104875217303e-17
+Aminoacyl-tRNA biosynthesis,Ascorbate and aldarate metabolism,-1,3.85801537779514e-20
+Emergencia,Biofilm formation - Vibrio cholerae,-1,5.04072470221205e-22
+Aminoacyl-tRNA biosynthesis,Biofilm formation - Vibrio cholerae,-1,2.32772574157378e-20
+Biofilm formation - Vibrio cholerae,Carbon fixation in photosynthetic organisms,-1,3.80912841892436e-17
+ABC transporters,Carbon fixation pathways in prokaryotes,-1,1.97401361389281e-16
+Angelakisella,Cationic antimicrobial peptide (CAMP) resistance,-1,2.3840001010849e-20
+Clostridium,Cationic antimicrobial peptide (CAMP) resistance,-1,2.28941735656527e-16
+Emergencia,Cationic antimicrobial peptide (CAMP) resistance,-1,3.92050196974475e-19
+Massilioclostridium,Cationic antimicrobial peptide (CAMP) resistance,-1,2.91065959387617e-17
+Aminoacyl-tRNA biosynthesis,Cationic antimicrobial peptide (CAMP) resistance,-1,9.5092164368176e-17
+Biosynthesis of antibiotics,Cationic antimicrobial peptide (CAMP) resistance,-1,5.5330320140868e-18
+Arginine and proline metabolism,Cell cycle - Caulobacter,-1,4.88550588866575e-18
+Ascorbate and aldarate metabolism,Cell cycle - Caulobacter,-1,1.32650175681701e-23
+Biofilm formation - Pseudomonas aeruginosa,Cell cycle - Caulobacter,-1,1.19472609168383e-16
+Biofilm formation - Vibrio cholerae,Cell cycle - Caulobacter,-1,4.39741650847105e-18
+Ascorbate and aldarate metabolism,D-Glutamine and D-glutamate metabolism,-1,8.25501837029573e-17
+Ascorbate and aldarate metabolism,DNA replication,-1,3.80915820957607e-19
+Biofilm formation - Vibrio cholerae,DNA replication,-1,7.50128569409027e-20
+Cationic antimicrobial peptide (CAMP) resistance,DNA replication,-1,3.32058922065703e-19
+Amino sugar and nucleotide sugar metabolism,Fatty acid degradation,-1,4.69665139531064e-18
+Angelakisella,Glutathione metabolism,-1,6.79081520661321e-20
+Massilioclostridium,Glutathione metabolism,-1,8.50241575088489e-17
+Biosynthesis of antibiotics,Glutathione metabolism,-1,2.0806939688857e-19
+Arginine and proline metabolism,HIF-1 signaling pathway,-1,1.57304829139564e-17
+Ascorbate and aldarate metabolism,HIF-1 signaling pathway,-1,5.21676067563869e-17
+Fatty acid degradation,Histidine metabolism,-1,1.45772942964863e-19
+Insulin resistance,Lipopolysaccharide biosynthesis,-1,1.69088145542466e-16
+Glutathione metabolism,Lysine biosynthesis,-1,7.2895300584914e-17
+Biosynthesis of amino acids,Lysine degradation,-1,4.12294463225842e-19
+Biosynthesis of antibiotics,Lysine degradation,-1,8.03587239068165e-19
+Biosynthesis of secondary metabolites,Lysine degradation,-1,2.81729838558737e-18
+ABC transporters,Lysosome,-1,2.36880477838778e-16
+Prevotellamassilia,Microbial metabolism in diverse environments,-1,6.46976722668438e-18
+Biosynthesis of antibiotics,Microbial metabolism in diverse environments,-1,4.43290027628759e-17
+Cationic antimicrobial peptide (CAMP) resistance,Necroptosis,-1,1.37318275718149e-19
+Glutathione metabolism,Necroptosis,-1,1.16251683008945e-18
+Aminoacyl-tRNA biosynthesis,Nitrogen metabolism,-1,9.79266226370741e-17
+Base excision repair,Nitrogen metabolism,-1,1.89834861460746e-17
+Cell cycle - Caulobacter,Nitrogen metabolism,-1,6.79081520661321e-20
+HIF-1 signaling pathway,Nitrogen metabolism,-1,3.35155273917228e-18
+Ascorbate and aldarate metabolism,Nucleotide excision repair,-1,9.47448318036138e-22
+Biofilm formation - Vibrio cholerae,Nucleotide excision repair,-1,5.62218394287466e-22
+Cationic antimicrobial peptide (CAMP) resistance,Nucleotide excision repair,-1,6.94849196341021e-18
+Nitrogen metabolism,Nucleotide excision repair,-1,3.95646951969861e-18
+ABC transporters,One carbon pool by folate,-1,1.43948689448756e-18
+Biofilm formation - Escherichia coli,One carbon pool by folate,-1,3.92050196974475e-19
+Biofilm formation - Pseudomonas aeruginosa,One carbon pool by folate,-1,3.43419120680039e-17
+Degradation of aromatic compounds,One carbon pool by folate,-1,6.99257194023213e-17
+ABC transporters,Other glycan degradation,-1,1.89038825021833e-19
+Aminoacyl-tRNA biosynthesis,Pentose and glucuronate interconversions,-1,6.20687683878903e-17
+Base excision repair,Pentose and glucuronate interconversions,-1,2.07146273791615e-17
+Nucleotide excision repair,Pentose and glucuronate interconversions,-1,2.26352831567945e-16
+Biofilm formation - Vibrio cholerae,Peptidoglycan biosynthesis,-1,1.48641520936352e-17
+Aminoacyl-tRNA biosynthesis,Phenylalanine metabolism,-1,1.15389804975565e-17
+Cell cycle - Caulobacter,Phenylalanine metabolism,-1,2.59295022061961e-19
+HIF-1 signaling pathway,Phenylalanine metabolism,-1,1.31835397770752e-17
+Nucleotide excision repair,Phenylalanine metabolism,-1,1.95851205577767e-17
+Butanoate metabolism,"Phenylalanine, tyrosine and tryptophan biosynthesis",-1,2.2764374341768e-16
+Lysine degradation,"Phenylalanine, tyrosine and tryptophan biosynthesis",-1,2.07814018563073e-16
+Aminoacyl-tRNA biosynthesis,Phosphonate and phosphinate metabolism,-1,8.41021872429049e-20
+Cell cycle - Caulobacter,Phosphonate and phosphinate metabolism,-1,1.02031786927688e-16
+HIF-1 signaling pathway,Phosphonate and phosphinate metabolism,-1,2.38933390063382e-17
+Nucleotide excision repair,Phosphonate and phosphinate metabolism,-1,4.57467613601394e-18
+Peptidoglycan biosynthesis,Phosphonate and phosphinate metabolism,-1,8.86078864916401e-17
+Culturomica,Phosphotransferase system (PTS),-1,1.47707787588069e-17
+Prevotella,Phosphotransferase system (PTS),-1,4.14955309538972e-21
+Prevotellamassilia,Phosphotransferase system (PTS),-1,1.90441030503557e-19
+Antifolate resistance,Phosphotransferase system (PTS),-1,4.51483841139712e-18
+D-Glutamine and D-glutamate metabolism,Phosphotransferase system (PTS),-1,1.98308785048012e-17
+One carbon pool by folate,Phosphotransferase system (PTS),-1,8.44615836662197e-21
+Prevotella,Propanoate metabolism,-1,1.12702480254501e-16
+Prevotellamassilia,Propanoate metabolism,-1,3.59056037723539e-22
+Cell cycle - Caulobacter,Propanoate metabolism,-1,2.04285773232309e-16
+One carbon pool by folate,Propanoate metabolism,-1,2.74447956332302e-16
+Ascorbate and aldarate metabolism,Protein export,-1,5.85934432396045e-21
+Nitrogen metabolism,Protein export,-1,1.34705870696492e-20
+Other glycan degradation,Quorum sensing,-1,6.23538969116701e-19
+Phenylalanine metabolism,RNA degradation,-1,7.13089002321674e-18
+Ascorbate and aldarate metabolism,RNA polymerase,-1,6.54931064336304e-17
+Pentose and glucuronate interconversions,RNA polymerase,-1,5.21662647407401e-18
+Phosphonate and phosphinate metabolism,RNA polymerase,-1,1.00892981674685e-19
+Ascorbate and aldarate metabolism,Ribosome,-1,9.49657483686561e-20
+Biofilm formation - Vibrio cholerae,Ribosome,-1,2.49505983849669e-17
+Nitrogen metabolism,Ribosome,-1,1.21804544462171e-19
+Phenylalanine metabolism,Ribosome,-1,6.31906059829601e-17
+Phosphonate and phosphinate metabolism,Ribosome,-1,4.30370908511805e-20
+Quorum sensing,Sphingolipid metabolism,-1,1.33429248329645e-16
+One carbon pool by folate,Sulfur metabolism,-1,5.47356308998344e-17
+Bacteroides,Sulfur relay system,-1,1.64477561002108e-24
+Amino sugar and nucleotide sugar metabolism,Sulfur relay system,-1,7.9713276146557e-21
+Glycosaminoglycan degradation,Sulfur relay system,-1,1.73288905058569e-22
+Glycosphingolipid biosynthesis - ganglio series,Sulfur relay system,-1,1.08605484814165e-22
+Glycosphingolipid biosynthesis - globo and isoglobo series,Sulfur relay system,-1,6.75468729885597e-23
+Lysosome,Sulfur relay system,-1,1.20359791408393e-24
+Other glycan degradation,Sulfur relay system,-1,7.33434779942879e-27
+Sphingolipid metabolism,Sulfur relay system,-1,1.56800360445268e-21
+Ascorbate and aldarate metabolism,Thiamine metabolism,-1,1.41484738307979e-19
+Biofilm formation - Vibrio cholerae,Thiamine metabolism,-1,1.40431840943017e-19
+Cationic antimicrobial peptide (CAMP) resistance,Thiamine metabolism,-1,1.51030499582201e-18
+Glutathione metabolism,Thiamine metabolism,-1,1.56891088253018e-16
+Phenylalanine metabolism,Thiamine metabolism,-1,4.52595307004738e-19
+Biosynthesis of antibiotics,Tryptophan metabolism,-1,7.79319440686943e-20
+Biosynthesis of secondary metabolites,Tryptophan metabolism,-1,2.28941735656527e-16
+Lysine biosynthesis,Tryptophan metabolism,-1,3.1334720334602e-19
+Necroptosis,Tryptophan metabolism,-1,1.73081714754236e-20
+Ascorbate and aldarate metabolism,Tuberculosis,-1,9.01878713897939e-17
+Cationic antimicrobial peptide (CAMP) resistance,Tuberculosis,-1,1.06926214424964e-16
+Phosphonate and phosphinate metabolism,Tuberculosis,-1,1.26117576580047e-17
+Aminoacyl-tRNA biosynthesis,Two-component system,-1,2.34035514866044e-19
+Cell cycle - Caulobacter,Two-component system,-1,8.94821745853179e-21
+Nucleotide excision repair,Two-component system,-1,3.5347091490119e-18
+Thiamine metabolism,Two-component system,-1,1.44940349084079e-17
+Antifolate resistance,Tyrosine metabolism,-1,7.78084081486159e-17
+One carbon pool by folate,Tyrosine metabolism,-1,6.80870752084513e-21
+RNA degradation,Tyrosine metabolism,-1,3.43419120680039e-17
+Necroptosis,Ubiquinone and other terpenoid-quinone biosynthesis,-1,6.94041306260401e-24
+Lipopolysaccharide biosynthesis,Vancomycin resistance,-1,1.23720729403147e-16
+Sulfur relay system,Various types of N-glycan biosynthesis,-1,2.59525025836166e-22
+Necroptosis,beta-Alanine metabolism,-1,5.73498647221265e-24

@@ -1,0 +1,6 @@
+"Species_ID"	"Phylum"	"Class"	"Order"	"Family"	"Genus"	"Species"
+"10710"	"Uroviricota"	"Caudoviricetes"	"Caudovirales"	"Siphoviridae"	"Lambdavirus"	"Escherichia virus Lambda"
+"563769"	"Uroviricota"	"Caudoviricetes"	"Caudovirales"	"Siphoviridae"	"Unclassified"	"Stx2-converting phage 1717"
+"1147152"	"Uroviricota"	"Caudoviricetes"	"Caudovirales"	"Siphoviridae"	"Unclassified"	"Enterobacteria phage mEp460"
+"1211417"	"Uroviricota"	"Caudoviricetes"	"Caudovirales"	"Podoviridae"	"Unclassified"	"uncultured crAssphage"
+"1732063"	"Uroviricota"	"Caudoviricetes"	"Caudovirales"	"Siphoviridae"	"Unclassified"	"Staphylococcus phage SPbeta-like"

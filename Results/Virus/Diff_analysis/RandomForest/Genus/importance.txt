@@ -1,0 +1,4 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Uetakevirus"	-2.3079	1.2889	-0.8442	3.7472
+"Tequatrovirus"	-1.5844	-0.1706	-1.4186	3.0658
+"Peduovirus"	-5.066	0.2789	-3.0531	3.3178

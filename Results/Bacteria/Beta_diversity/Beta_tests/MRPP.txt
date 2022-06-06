@@ -1,0 +1,67 @@
+
+Call:
+mrpp(dat = data, grouping = Group) 
+
+Dissimilarity index: bray 
+Weights for groups:  n 
+
+Class means and counts:
+
+      Control Disease
+delta 0.5896  0.6471 
+n     34      34     
+
+Chance corrected within-group agreement A: 0.0322 
+Based on observed delta 0.6183 and expected delta 0.6389 
+
+Significance of delta: 0.002 
+Permutation: free
+Number of permutations: 999
+
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+[1] "A total of 47 significant features with given criteria."
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 
+RStudioGD 
+        2 

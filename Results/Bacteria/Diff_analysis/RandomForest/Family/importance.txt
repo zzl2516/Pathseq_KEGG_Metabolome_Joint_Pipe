@@ -1,0 +1,6 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Bacteroidaceae"	6.3278	8.3188	9.386	2.0597
+"Actinomycetaceae"	6.5159	7.999	9.2745	1.9501
+"Erysipelotrichaceae"	4.5131	4.9766	7.0726	0.8203
+"Rikenellaceae"	4.66	5.2409	6.8428	1.4892
+"Chitinophagaceae"	5.3871	4.2155	6.1935	1.2258

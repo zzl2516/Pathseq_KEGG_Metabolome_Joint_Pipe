@@ -1,0 +1,6 @@
+"V1"	"p.value"
+"Actinobacteria"	"0.0027881012850664"
+"Bacteroidetes"	"5.93398755915284e-05"
+"Firmicutes"	"0.638851806277605"
+"Fusobacteria"	"0.41713320786022"
+"Proteobacteria"	"0.00734261333518027"

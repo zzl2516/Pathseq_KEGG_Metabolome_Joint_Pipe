@@ -1,0 +1,83 @@
+"variable"	"Group"	"Mean"
+"\"Alanine, aspartate and glutamate metabolism\""	"Control"	0.912526581375081
+"\"Alanine, aspartate and glutamate metabolism\""	"Disease"	0.959719494387632
+"ABC transporters"	"Control"	2.48512418073748
+"ABC transporters"	"Disease"	2.13403254086194
+"Amino sugar and nucleotide sugar metabolism"	"Control"	1.31302952626833
+"Amino sugar and nucleotide sugar metabolism"	"Disease"	1.43501811231738
+"Antifolate resistance"	"Control"	0.187065850204944
+"Antifolate resistance"	"Disease"	0.20324381462672
+"Ascorbate and aldarate metabolism"	"Control"	0.196322231484532
+"Ascorbate and aldarate metabolism"	"Disease"	0.145912901922664
+"beta-Alanine metabolism"	"Control"	0.122734364262307
+"beta-Alanine metabolism"	"Disease"	0.0988414526405975
+"beta-Lactam resistance"	"Control"	0.394202469061002
+"beta-Lactam resistance"	"Disease"	0.421000876552868
+"Biofilm formation - Pseudomonas aeruginosa"	"Control"	0.145584639391291
+"Biofilm formation - Pseudomonas aeruginosa"	"Disease"	0.11177822884376
+"Carbon fixation pathways in prokaryotes"	"Control"	0.732661906774573
+"Carbon fixation pathways in prokaryotes"	"Disease"	0.771959767385378
+"Cationic antimicrobial peptide (CAMP) resistance"	"Control"	0.324102648818926
+"Cationic antimicrobial peptide (CAMP) resistance"	"Disease"	0.267354957272262
+"Central carbon metabolism in cancer"	"Control"	0.159272515222355
+"Central carbon metabolism in cancer"	"Disease"	0.17094542440149
+"Cyanoamino acid metabolism"	"Control"	0.274331415423953
+"Cyanoamino acid metabolism"	"Disease"	0.306472222305179
+"Degradation of aromatic compounds"	"Control"	0.193834436604416
+"Degradation of aromatic compounds"	"Disease"	0.12204036769071
+"Fatty acid degradation"	"Control"	0.149960885281618
+"Fatty acid degradation"	"Disease"	0.116780789473253
+"GABAergic synapse"	"Control"	0.118299652950711
+"GABAergic synapse"	"Disease"	0.130523934999345
+"Glutamatergic synapse"	"Control"	0.101690665829544
+"Glutamatergic synapse"	"Disease"	0.113873160182003
+"Glutathione metabolism"	"Control"	0.234211793607457
+"Glutathione metabolism"	"Disease"	0.200149339620939
+"Glycosaminoglycan degradation"	"Control"	0.187270886889554
+"Glycosaminoglycan degradation"	"Disease"	0.257888675401989
+"Glycosphingolipid biosynthesis - ganglio series"	"Control"	0.0993840673074337
+"Glycosphingolipid biosynthesis - ganglio series"	"Disease"	0.149650571976274
+"Glycosphingolipid biosynthesis - globo and isoglobo series"	"Control"	0.185193614060374
+"Glycosphingolipid biosynthesis - globo and isoglobo series"	"Disease"	0.249383256844496
+"Histidine metabolism"	"Control"	0.31876549992854
+"Histidine metabolism"	"Disease"	0.356287325962045
+"Lysosome"	"Control"	0.194749792422102
+"Lysosome"	"Disease"	0.280279457995573
+"Microbial metabolism in diverse environments"	"Control"	4.59785306213327
+"Microbial metabolism in diverse environments"	"Disease"	4.30911664773828
+"Necroptosis"	"Control"	0.195232519950148
+"Necroptosis"	"Disease"	0.215537148590393
+"Nicotinate and nicotinamide metabolism"	"Control"	0.410004504026938
+"Nicotinate and nicotinamide metabolism"	"Disease"	0.397006640560734
+"Nitrogen metabolism"	"Control"	0.38513153270423
+"Nitrogen metabolism"	"Disease"	0.35815652830919
+"NOD-like receptor signaling pathway"	"Control"	0.100830074449533
+"NOD-like receptor signaling pathway"	"Disease"	0.123436827010106
+"Other glycan degradation"	"Control"	0.445834907119973
+"Other glycan degradation"	"Disease"	0.605691820174717
+"Phenylalanine metabolism"	"Control"	0.256038986496941
+"Phenylalanine metabolism"	"Disease"	0.204009465308764
+"Phosphonate and phosphinate metabolism"	"Control"	0.111114802466716
+"Phosphonate and phosphinate metabolism"	"Disease"	0.0939807902135574
+"Phosphotransferase system (PTS)"	"Control"	0.431521981924956
+"Phosphotransferase system (PTS)"	"Disease"	0.26332100157538
+"Polyketide sugar unit biosynthesis"	"Control"	0.15082906257017
+"Polyketide sugar unit biosynthesis"	"Disease"	0.170413779484954
+"Prodigiosin biosynthesis"	"Control"	0.117735615064618
+"Prodigiosin biosynthesis"	"Disease"	0.124639675877556
+"Propanoate metabolism"	"Control"	0.59677922911929
+"Propanoate metabolism"	"Disease"	0.53880355071293
+"Protein export"	"Control"	0.474603892229207
+"Protein export"	"Disease"	0.510442875863375
+"Salmonella infection"	"Control"	0.155403647922258
+"Salmonella infection"	"Disease"	0.176875048767463
+"Sphingolipid metabolism"	"Control"	0.285749608724308
+"Sphingolipid metabolism"	"Disease"	0.371609468715609
+"Sulfur metabolism"	"Control"	0.349105313400505
+"Sulfur metabolism"	"Disease"	0.291769761820554
+"Sulfur relay system"	"Control"	0.204921592660171
+"Sulfur relay system"	"Disease"	0.159532357425444
+"Tyrosine metabolism"	"Control"	0.156804538566516
+"Tyrosine metabolism"	"Disease"	0.113237687432036
+"Various types of N-glycan biosynthesis"	"Control"	0.100802232682004
+"Various types of N-glycan biosynthesis"	"Disease"	0.150936796420214

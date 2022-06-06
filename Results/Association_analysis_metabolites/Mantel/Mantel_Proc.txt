@@ -1,0 +1,4 @@
+"Comparison"	"Mantel_r"	"Mantel_p"	"Proc_r"	"Proc_p"
+"Bacteria vs Metabolites"	0.131859405314419	0.056	0.964858325758662	0.062
+"Virus vs Metabolites"	0.00224814184101022	0.421	0.993801976295371	0.478
+"Function vs Metabolites"	0.108561375777231	0.069	0.962334275725857	0.065

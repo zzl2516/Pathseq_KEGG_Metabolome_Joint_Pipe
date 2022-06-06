@@ -1,0 +1,2 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Malgrandaviricetes"	32.3571	17.8052	34.9268	18.0007

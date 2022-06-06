@@ -1,0 +1,15 @@
+"variable"	"Group"	"Mean"
+"Actinomycetales"	"Control"	0.205509345767524
+"Actinomycetales"	"Disease"	0.0750292483805621
+"Burkholderiales"	"Control"	2.48949996329203
+"Burkholderiales"	"Disease"	1.14071133633941
+"Corynebacteriales"	"Control"	0.13184485580913
+"Corynebacteriales"	"Disease"	0.0903124245078762
+"Eggerthellales"	"Control"	0.301849674772159
+"Eggerthellales"	"Disease"	0.123774901954424
+"Enterobacterales"	"Control"	39.9288652985568
+"Enterobacterales"	"Disease"	21.2458412103566
+"Micrococcales"	"Control"	0.544191668667262
+"Micrococcales"	"Disease"	0.17114611047081
+"Pseudomonadales"	"Control"	1.15591297710821
+"Pseudomonadales"	"Disease"	0.142606180241435

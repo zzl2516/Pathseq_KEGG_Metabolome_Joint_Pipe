@@ -1,0 +1,5 @@
+"V1"	"p.value"
+"Microviridae"	"0.0419289705759221"
+"Myoviridae"	"0.546119993301677"
+"Podoviridae"	"0.0214829389808674"
+"Siphoviridae"	"0.656389615385712"

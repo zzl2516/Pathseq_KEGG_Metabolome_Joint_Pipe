@@ -1,0 +1,5 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Bacteroidales"	6.6711	9.4494	10.5501	3.2158
+"Actinomycetales"	4.88	9.2156	8.9003	2.4179
+"Chitinophagales"	8.8414	2.9187	7.7504	1.9339
+"Erysipelotrichales"	4.2035	5.3177	6.3023	1.6505

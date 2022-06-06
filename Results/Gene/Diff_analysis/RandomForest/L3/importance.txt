@@ -1,0 +1,12 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Plant-pathogen interaction"	7.8904	9.3282	10.1043	1.8472
+"Fluid shear stress and atherosclerosis"	8.4038	5.9962	8.9273	1.6553
+"Degradation of aromatic compounds"	3.31	4.366	4.8335	0.3877
+"NOD-like receptor signaling pathway"	0.4411	5.6355	4.6704	0.6716
+"Sulfur relay system"	4.4651	1.6894	4.4376	0.4152
+"Glutamatergic synapse"	1.7345	3.9154	3.9901	0.5115
+"Glycosphingolipid biosynthesis - globo and isoglobo series"	2.3201	3.1851	3.8151	0.4742
+"Phosphotransferase system (PTS)"	1.2396	3.8217	3.7481	0.7561
+"GABAergic synapse"	1.684	4.3294	3.6878	0.6067
+"beta-Lactam resistance"	3.4314	2.5932	3.6162	0.5709
+"Various types of N-glycan biosynthesis"	2.4378	3.1383	3.4261	0.3964

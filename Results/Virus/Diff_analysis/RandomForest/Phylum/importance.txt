@@ -1,0 +1,2 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Phixviricota"	32.1689	16.4687	32.6825	17.7202

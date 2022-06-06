@@ -1,0 +1,46 @@
+Source,Target,R,P
+Bacteroidetes,1.7 Glycan biosynthesis and metabolism,1,2.27974018725642e-21
+1.4 Nucleotide metabolism,2.2 Translation,1,5.6795163550465e-18
+2.1 Transcription,2.2 Translation,1,8.46013346857178e-36
+2.1 Transcription,"2.3 Folding, sorting and degradation",1,7.04717890107513e-27
+2.2 Translation,"2.3 Folding, sorting and degradation",1,2.94787241776567e-36
+1.4 Nucleotide metabolism,2.4 Replication and repair,1,1.9048132306333e-18
+2.1 Transcription,2.4 Replication and repair,1,2.2900409707692e-24
+2.2 Translation,2.4 Replication and repair,1,8.02715161470073e-39
+"2.3 Folding, sorting and degradation",2.4 Replication and repair,1,5.91585476903083e-33
+Bacteroidetes,4.1 Transport and catabolism,1,5.44887628425018e-19
+1.7 Glycan biosynthesis and metabolism,4.1 Transport and catabolism,1,1.02625621949868e-33
+2.1 Transcription,4.2 Cell growth and death,1,1.28867355779946e-27
+2.2 Translation,4.2 Cell growth and death,1,1.57332804105455e-24
+"2.3 Folding, sorting and degradation",4.2 Cell growth and death,1,1.35213944198006e-17
+2.4 Replication and repair,4.2 Cell growth and death,1,2.54055448247161e-20
+3.1 Membrane transport,4.4 Cellular community - prokaryotes,1,4.07754577731539e-42
+1.7 Glycan biosynthesis and metabolism,5.6 Nervous system,1,7.61676132206681e-20
+4.1 Transport and catabolism,5.6 Nervous system,1,3.97409222895025e-25
+5.1 Immune system,6.6 Cardiovascular disease,1,1.52441022719757e-19
+2.2 Translation,6.7 Endocrine and metabolic disease,1,1.23720729403147e-16
+"2.3 Folding, sorting and degradation",6.7 Endocrine and metabolic disease,1,5.52693440261159e-19
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",Maslinic acid,1,3.16073693307625e-63
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit",2α-Hydroxyursolic acid,1,3.79254171322455e-63
+Maslinic acid,2α-Hydroxyursolic acid,1,8.05297151503504e-65
+"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit","2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,1.3030994111783e-19
+Maslinic acid,"2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,2.76899793773511e-19
+2α-Hydroxyursolic acid,"2α,3α,23-trihydroxyolean-12-en-28-oic acid",1,3.1334720334602e-19
+Pennogenin 3-O-beta-chacotrioside,"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",1,3.77997095987731e-77
+Pennogenin 3-O-beta-chacotrioside,7-Methoxy-5-Prenyloxycoumarin,1,1.80116607866388e-16
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",7-Methoxy-5-Prenyloxycoumarin,1,2.12609631831437e-16
+Solasodine 3-O-β-D-glucopyranoside,Khasianine,1,1.55744303892267e-31
+Pennogenin 3-O-beta-chacotrioside,Prosapogenin A,1,3.34690077462348e-23
+"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside",Prosapogenin A,1,7.316522037651e-24
+Solasodine-3-O-(2''-xyloyl)glucoside,Prosapogenin A,1,2.43021202264362e-18
+Solasodine-3-O-(2''-xyloyl)glucoside,Sceptrumgenin 3-O-Glucoside-Rhamnoside-Rhamnoside-Glucoside,1,1.12134297771149e-19
+Prosapogenin A,Sceptrumgenin 3-O-Glucoside-Rhamnoside-Rhamnoside-Glucoside,1,1.85355305652589e-16
+1.10 Biosynthesis of other secondary metabolites,1.11 Xenobiotics biodegradation and metabolism,-1,4.36852388256474e-18
+Bacteroidetes,3.1 Membrane transport,-1,6.37717466374056e-24
+1.7 Glycan biosynthesis and metabolism,3.1 Membrane transport,-1,1.27293345241351e-24
+2.2 Translation,3.2 Signal transduction,-1,1.46779703033198e-17
+2.4 Replication and repair,3.2 Signal transduction,-1,6.38620938351631e-18
+3.1 Membrane transport,4.1 Transport and catabolism,-1,1.47235779199031e-16
+3.2 Signal transduction,4.2 Cell growth and death,-1,2.30246845558996e-16
+Bacteroidetes,4.4 Cellular community - prokaryotes,-1,9.30843676662429e-23
+1.7 Glycan biosynthesis and metabolism,4.4 Cellular community - prokaryotes,-1,2.11223385436905e-22

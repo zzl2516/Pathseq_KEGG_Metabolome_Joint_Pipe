@@ -1,0 +1,3 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Microviridae"	13.0241	15.8291	17.685	9.9686
+"Podoviridae"	3.777	2.7223	4.2704	7.6822

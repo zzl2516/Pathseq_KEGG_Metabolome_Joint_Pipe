@@ -1,0 +1,8 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Bacteroides"	7.9979	10.7314	11.3394	2.3261
+"Actinomyces"	7.0595	9.5521	10.5131	1.8837
+"Tannerella"	6.3817	2.2155	6.5474	1.1891
+"Pseudomonas"	4.4174	5.0867	6.3559	1.0733
+"Intestinimonas"	2.767	5.5907	5.2951	0.9087
+"Culturomica"	1.8637	5.031	4.9798	1.1234
+"Coprobacillus"	5.074	2.5355	4.8392	1.0325

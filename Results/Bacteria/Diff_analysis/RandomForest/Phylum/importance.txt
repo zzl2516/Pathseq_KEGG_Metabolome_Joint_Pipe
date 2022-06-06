@@ -1,0 +1,3 @@
+"ID"	"Control"	"Disease"	"MeanDecreaseAccuracy"	"MeanDecreaseGini"
+"Actinobacteria"	13.3818	9.2425	15.3714	6.9356
+"Bacteroidetes"	9.7498	11.0263	13.7844	8.2173

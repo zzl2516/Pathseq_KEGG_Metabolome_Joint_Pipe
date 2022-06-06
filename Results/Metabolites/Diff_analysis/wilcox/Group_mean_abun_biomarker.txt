@@ -1,0 +1,227 @@
+"variable"	"Group"	"Mean"
+"\"(25R)-spirost-5-en-3β,14α-diol-3-0-β-D-glucopyranosyl-(1_2)-[β-D-glucopyranosyl-(1_3)]-β-D-galactopyranoside-(1_4)-β-D-galactopyranoside\""	"Control"	622615.525323529
+"\"(25R)-spirost-5-en-3β,14α-diol-3-0-β-D-glucopyranosyl-(1_2)-[β-D-glucopyranosyl-(1_3)]-β-D-galactopyranoside-(1_4)-β-D-galactopyranoside\""	"Disease"	931372.188617647
+"\"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside\""	"Control"	17605.8252941176
+"\"(3,4-Dimustard acyl)-fructosyl-α-D-(6-mustard acyl)glucoside\""	"Disease"	34354.7496176471
+"\"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid\""	"Control"	53315.1245294118
+"\"13S-Hydroxy-9Z,11E,15Z-octadecatrienoic acid\""	"Disease"	43625.6661176471
+"\"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside\""	"Control"	434257.251470588
+"\"2-(3,4-dihydroxyphenyl)ethanediol 1-O-β-D-glucopyranoside\""	"Disease"	651315.180235294
+"\"2,3-dihydroxy-12-ursen-28-oic acid\""	"Control"	104659174.441176
+"\"2,3-dihydroxy-12-ursen-28-oic acid\""	"Disease"	82323201.4161765
+"\"24,30-Dihydroxy-12(13)-enolupinol\""	"Control"	5044474.10217647
+"\"24,30-Dihydroxy-12(13)-enolupinol\""	"Disease"	3558006.89735294
+"\"26-O-Glu-3β,26-dihydroxy-5-cholesten-16,22-dioxo-3-O-α-rha(1_2)-glucoside\""	"Control"	2572813.53788235
+"\"26-O-Glu-3β,26-dihydroxy-5-cholesten-16,22-dioxo-3-O-α-rha(1_2)-glucoside\""	"Disease"	3354657.98994118
+"\"2α,3α,23-trihydroxyolean-12-en-28-oic acid\""	"Control"	86692074.9511765
+"\"2α,3α,23-trihydroxyolean-12-en-28-oic acid\""	"Disease"	57092214.2729412
+"\"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit\""	"Control"	95016506.7255882
+"\"3,24-Dihydroxy-17,21-semiacetal-12(13)oleanolic fruit\""	"Disease"	74086500.0473529
+"\"3,4-Dimethoxybenzamide\""	"Control"	317123.679794118
+"\"3,4-Dimethoxybenzamide\""	"Disease"	248030.446323529
+"\"9,10-Epoxyoctadecanoic Acid\""	"Control"	67393.4347352941
+"\"9,10-Epoxyoctadecanoic Acid\""	"Disease"	70262.1442647059
+"\"9,10,13-Trihydroxy-11-Octadecenoic Acid\""	"Control"	21113350.3094118
+"\"9,10,13-Trihydroxy-11-Octadecenoic Acid\""	"Disease"	19136807.6125294
+"\"D-Arabinono-1,4-lactone\""	"Control"	657756.174911765
+"\"D-Arabinono-1,4-lactone\""	"Disease"	585457.094323529
+"\"N',N'',N'''-p-Coumaroyl-cinnamoyl-caffeoyl spermidine\""	"Control"	2201802.34417647
+"\"N',N'',N'''-p-Coumaroyl-cinnamoyl-caffeoyl spermidine\""	"Disease"	1549358.13367647
+"\"N1__affeoyl,N3-dihydrocaffeoylspermidine\""	"Control"	4932886.45067647
+"\"N1__affeoyl,N3-dihydrocaffeoylspermidine\""	"Disease"	10575315.1844706
+"\"Pinoresinol-4,4'-O-di-O-glucoside\""	"Control"	152189.169470588
+"\"Pinoresinol-4,4'-O-di-O-glucoside\""	"Disease"	113430.265882353
+"\"Quercetin3,7-diglucoside\""	"Control"	64343.4183235294
+"\"Quercetin3,7-diglucoside\""	"Disease"	248838.862647059
+"\"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)\""	"Control"	70962.4113529412
+"\"Tricin (5,7,4'-Trihydroxy-3',5'-dimethoxyflavone)\""	"Disease"	57110.0905294118
+"1-O-[(E)-Caffeoyl]-D-glucose"	"Control"	2968434.68252941
+"1-O-[(E)-Caffeoyl]-D-glucose"	"Disease"	2338993.23782353
+"1-O-Caffeoyl-(6-O-glucosyl)-β-D-glucose"	"Control"	3611355.39211765
+"1-O-Caffeoyl-(6-O-glucosyl)-β-D-glucose"	"Disease"	2532088.29688235
+"2-Hydroxy-4-methylpentanoic acid"	"Control"	2824503.65155882
+"2-Hydroxy-4-methylpentanoic acid"	"Disease"	1770119.55955882
+"2-Hydroxyisocaproic acid"	"Control"	780487.260852941
+"2-Hydroxyisocaproic acid"	"Disease"	532103.995941176
+"2-Hydroxyoleanolic acid"	"Control"	94961507.6852941
+"2-Hydroxyoleanolic acid"	"Disease"	73868208.2835294
+"2-Propylglutaric acid"	"Control"	3662368.36761765
+"2-Propylglutaric acid"	"Disease"	2180997.50194118
+"2'-Deoxyadenosine"	"Control"	4657752.70858824
+"2'-Deoxyadenosine"	"Disease"	3637115.01794118
+"2'-Deoxyadenosine-5'-monophosphate"	"Control"	3829979.11044118
+"2'-Deoxyadenosine-5'-monophosphate"	"Disease"	3473630.38705882
+"2'-Deoxyguanosine"	"Control"	3459815.24305882
+"2'-Deoxyguanosine"	"Disease"	4624510.89526471
+"2R-Hydroxyoctadecanoic Acid"	"Control"	16242969.6189118
+"2R-Hydroxyoctadecanoic Acid"	"Disease"	20382966.4955588
+"2α-Hydroxyursolic acid"	"Control"	95207633.215
+"2α-Hydroxyursolic acid"	"Disease"	73610140.9411765
+"3-Hydroxybutyric acid"	"Control"	749891.867323529
+"3-Hydroxybutyric acid"	"Disease"	949820.770117647
+"3-O-Feruloylquinic acid-O-glucoside"	"Control"	37596.6711470588
+"3-O-Feruloylquinic acid-O-glucoside"	"Disease"	24711.9610882353
+"3-O-Methylgallic acid"	"Control"	277860.395558824
+"3-O-Methylgallic acid"	"Disease"	570698.281470588
+"3-O-p-Coumaroylquinic acid"	"Control"	93925235.6135294
+"3-O-p-Coumaroylquinic acid"	"Disease"	116660673.001412
+"4-Hydroxybenzoic acid"	"Control"	4691509.703
+"4-Hydroxybenzoic acid"	"Disease"	4838783.95297059
+"4-Pyridoxic acid"	"Control"	447709.740882353
+"4-Pyridoxic acid"	"Disease"	544170.769029412
+"5-O-Caffeoylshikimic acid"	"Control"	6271750.80108824
+"5-O-Caffeoylshikimic acid"	"Disease"	10179215.6603824
+"5a-Tomatidan-3-one"	"Control"	1752525.91820588
+"5a-Tomatidan-3-one"	"Disease"	2191818.97532353
+"6-Hydroxy-4-methylcoumarin"	"Control"	10701274.5004706
+"6-Hydroxy-4-methylcoumarin"	"Disease"	5254608.77897059
+"6-Hydroxyluteolin 5-glucoside"	"Control"	10122375.4103235
+"6-Hydroxyluteolin 5-glucoside"	"Disease"	18659075.3831765
+"6-Methyldiosgenin 3-O-glucopyranoside"	"Control"	296498.059323529
+"6-Methyldiosgenin 3-O-glucopyranoside"	"Disease"	377141.872676471
+"9-(Arabinosyl)hypoxanthine"	"Control"	8830544.76852941
+"9-(Arabinosyl)hypoxanthine"	"Disease"	7023771.32320588
+"9-Oxononanoic acid"	"Control"	195999.585911765
+"9-Oxononanoic acid"	"Disease"	150418.806058824
+"Adenosine"	"Control"	2305352.015
+"Adenosine"	"Disease"	1794968.15726471
+"Apigenin-7-glucuronide"	"Control"	908718.167470588
+"Apigenin-7-glucuronide"	"Disease"	1326482.26635294
+"Baimaside"	"Control"	150534.772911765
+"Baimaside"	"Disease"	322542.685117647
+"Benzyl-(2''-O-xylosyl)glucoside"	"Control"	14400745.2683235
+"Benzyl-(2''-O-xylosyl)glucoside"	"Disease"	16074779.4477059
+"Betulinic acid"	"Control"	6262209.86394118
+"Betulinic acid"	"Disease"	4498670.89902941
+"Borassoside D"	"Control"	1292443.62608824
+"Borassoside D"	"Disease"	1056295.2305
+"Caffeoyl-dihydrocaffeoyl spermidine"	"Control"	2039415.51170588
+"Caffeoyl-dihydrocaffeoyl spermidine"	"Disease"	4250273.98747059
+"Capsianoside I"	"Control"	1192290.39970588
+"Capsianoside I"	"Disease"	2218030.3725
+"Chrysoeriol-5-O-glucoside"	"Control"	4711644.31138235
+"Chrysoeriol-5-O-glucoside"	"Disease"	7805296.69088235
+"Cimidahurinine"	"Control"	3985460.826
+"Cimidahurinine"	"Disease"	4577012.534
+"Cinnamoyltyramine"	"Control"	3986285.67597059
+"Cinnamoyltyramine"	"Disease"	5436658.16370588
+"Citric Acid"	"Control"	16159206.8974706
+"Citric Acid"	"Disease"	20387677.6165882
+"Coniferaldehyde"	"Control"	853532.082588235
+"Coniferaldehyde"	"Disease"	701730.418323529
+"Corosolic acid"	"Control"	107963218.456765
+"Corosolic acid"	"Disease"	84495625.3870588
+"Cryptochlorogenic acid (4-O-Caffeoylquinic acid)"	"Control"	415155585.276471
+"Cryptochlorogenic acid (4-O-Caffeoylquinic acid)"	"Disease"	437122729.979588
+"Daphnetin"	"Control"	15414197.5651765
+"Daphnetin"	"Disease"	20717965.5765588
+"Dehydrodemissine"	"Control"	85485269.5508824
+"Dehydrodemissine"	"Disease"	103970813.881765
+"Dihydro-9-hydroxysolasodine"	"Control"	6653459.73617647
+"Dihydro-9-hydroxysolasodine"	"Disease"	5788321.74076471
+"Diosgenin glucoside"	"Control"	523238.0325
+"Diosgenin glucoside"	"Disease"	905100.593558824
+"Fumaric acid"	"Control"	3362649.84591176
+"Fumaric acid"	"Disease"	2835741.84873529
+"Funkioside_C"	"Control"	57946.5433235294
+"Funkioside_C"	"Disease"	88050.1174117647
+"Genistein-7-O-Glucoside (Genistin)"	"Control"	314668.461911765
+"Genistein-7-O-Glucoside (Genistin)"	"Disease"	432045.683147059
+"Gluconic acid"	"Control"	5068182.59408823
+"Gluconic acid"	"Disease"	4090764.89323529
+"Hexadecylsphingosine"	"Control"	3131777.76167647
+"Hexadecylsphingosine"	"Disease"	2842698.45232353
+"Histamine"	"Control"	1101989.03164706
+"Histamine"	"Disease"	1983956.49194118
+"Indioside H"	"Control"	1368792.54267647
+"Indioside H"	"Disease"	2419112.82367647
+"Isochlorogenic acid A"	"Control"	11735477.8134118
+"Isochlorogenic acid A"	"Disease"	20110100.1979118
+"Isohyperoside"	"Control"	5055278.44694118
+"Isohyperoside"	"Disease"	8440255.23576471
+"Isoquercetin"	"Control"	5202893.60047059
+"Isoquercetin"	"Disease"	8884160.36041177
+"Isorhamnetin-3-O-(2''-O-xylosyl)glucoside"	"Control"	77505.2032058824
+"Isorhamnetin-3-O-(2''-O-xylosyl)glucoside"	"Disease"	126284.000176471
+"Isorhamnetin-3-O-(6''-acetylglucoside)"	"Control"	373428.187705882
+"Isorhamnetin-3-O-(6''-acetylglucoside)"	"Disease"	647793.331823529
+"Isorhamnetin-3-O-sophoroside"	"Control"	2752153.25147059
+"Isorhamnetin-3-O-sophoroside"	"Disease"	4927434.38126471
+"Kaempferol-3-O-galactoside (Trifolin)"	"Control"	3649978.45061765
+"Kaempferol-3-O-galactoside (Trifolin)"	"Disease"	7685520.19329412
+"Kaempferol-3-O-glucoside (Astragalin)"	"Control"	3963377.22664706
+"Kaempferol-3-O-glucoside (Astragalin)"	"Disease"	6258083.88297059
+"Leptine I"	"Control"	4309908.25670588
+"Leptine I"	"Disease"	1440867.9145
+"Leptine II"	"Control"	542009.284911765
+"Leptine II"	"Disease"	842102.833735294
+"Luteolin-4'-O-glucoside"	"Control"	3229187.69532353
+"Luteolin-4'-O-glucoside"	"Disease"	6289446.72338235
+"Lyciumamide N"	"Control"	1515928.22723529
+"Lyciumamide N"	"Disease"	1047889.40814706
+"LysoPA 16:0"	"Control"	2626053.08979412
+"LysoPA 16:0"	"Disease"	3301156.08897059
+"Madasiatic acid"	"Control"	91580007.9602941
+"Madasiatic acid"	"Disease"	60813357.6764706
+"Maslinic acid"	"Control"	106851308.008824
+"Maslinic acid"	"Disease"	83032638.4914706
+"Mevalonic acid"	"Control"	4145744.63461765
+"Mevalonic acid"	"Disease"	3703217.46588235
+"Myricetin-3-O-rutinoside"	"Control"	155029.166470588
+"Myricetin-3-O-rutinoside"	"Disease"	435741.727411765
+"N-Acetyl-L-leucine"	"Control"	90623.1286764706
+"N-Acetyl-L-leucine"	"Disease"	68494.5861764706
+"N-Coumaroyltyramine"	"Control"	6050558.68758824
+"N-Coumaroyltyramine"	"Disease"	8234532.57423529
+"N-Sinapoylputrescine"	"Control"	6929019.88291177
+"N-Sinapoylputrescine"	"Disease"	5325020.61488235
+"N-trans-sinapoyltyramine"	"Control"	3210445.89294118
+"N-trans-sinapoyltyramine"	"Disease"	2156022.46320588
+"N6-Acetyl-L-lysine"	"Control"	3201008.7815
+"N6-Acetyl-L-lysine"	"Disease"	2654807.41367647
+"Nepetin-7-O-glucoside"	"Control"	7652538.7565
+"Nepetin-7-O-glucoside"	"Disease"	14588388.3436176
+"Oleamide (9-Octadecenamide)"	"Control"	10042.9108235294
+"Oleamide (9-Octadecenamide)"	"Disease"	11705.4192352941
+"Olivil-4'-O-glucoside"	"Control"	106713.950294118
+"Olivil-4'-O-glucoside"	"Disease"	84633.7639705882
+"p-Coumaraldehyde"	"Control"	25391675.2341176
+"p-Coumaraldehyde"	"Disease"	20424309.6530588
+"Pennogenin 3-O-beta-chacotrioside"	"Control"	27402.7275
+"Pennogenin 3-O-beta-chacotrioside"	"Disease"	56097.0916470588
+"Prosapogenin A"	"Control"	359663.994941176
+"Prosapogenin A"	"Disease"	662048.369823529
+"Prosapogenin D3"	"Control"	1267719.22235294
+"Prosapogenin D3"	"Disease"	1046313.15735294
+"Quercetin-3-O-glucoside (Isoquercitrin)"	"Control"	12460595.5080294
+"Quercetin-3-O-glucoside (Isoquercitrin)"	"Disease"	22405457.6335882
+"Quercetin-7-O-glucoside"	"Control"	6876893.26658824
+"Quercetin-7-O-glucoside"	"Disease"	12001212.3141176
+"Sceptrumgenin 3-O-Glucoside-Rhamnoside-Rhamnoside-Glucoside"	"Control"	746480.939676471
+"Sceptrumgenin 3-O-Glucoside-Rhamnoside-Rhamnoside-Glucoside"	"Disease"	1041586.13973529
+"Solasodine"	"Control"	1364788.93647059
+"Solasodine"	"Disease"	1942518.17635294
+"Solasodine 3-O-β-D-glucopyranoside"	"Control"	11650792.474
+"Solasodine 3-O-β-D-glucopyranoside"	"Disease"	17840028.4944706
+"Solasodine-3-O-glucoside"	"Control"	1936272.71526471
+"Solasodine-3-O-glucoside"	"Disease"	3681567.75464706
+"Solasonine"	"Control"	7257494.30626471
+"Solasonine"	"Disease"	11838458.8856765
+"Solasuaveoline"	"Control"	746652.763794118
+"Solasuaveoline"	"Disease"	1186861.18823529
+"Taxifolin-3'-O-glucoside"	"Control"	343955.737058824
+"Taxifolin-3'-O-glucoside"	"Disease"	614384.449235294
+"Tetradecanedioic acid"	"Control"	176411.503705882
+"Tetradecanedioic acid"	"Disease"	166488.719470588
+"Tomatidenol (Dehydrotomatidine)"	"Control"	2520705.61179412
+"Tomatidenol (Dehydrotomatidine)"	"Disease"	3256847.693
+"Tomatidine-3-O-glucoside"	"Control"	5492653.81691176
+"Tomatidine-3-O-glucoside"	"Disease"	4148744.70967647
+"Uridine 5'-monophosphate disodium salt"	"Control"	3726047.20279412
+"Uridine 5'-monophosphate disodium salt"	"Disease"	7956271.15867647
+"Ursolic acid"	"Control"	6255116.46264706
+"Ursolic acid"	"Disease"	4441899.01620588
+"Vanillic acid"	"Control"	1779937.92835294
+"Vanillic acid"	"Disease"	2386203.23929412
+"α-Solanine"	"Control"	6946986.57211765
+"α-Solanine"	"Disease"	14998431.9710294

@@ -1,0 +1,3 @@
+"variable"	"Group"	"Mean"
+"Malgrandaviricetes"	"Control"	4.35065894965473
+"Malgrandaviricetes"	"Disease"	4.01808985798736

@@ -1,0 +1,5 @@
+"variable"	"Group"	"Mean"
+"Microviridae"	"Control"	4.35065894965473
+"Microviridae"	"Disease"	4.01808985798736
+"Podoviridae"	"Control"	18.4212647142818
+"Podoviridae"	"Disease"	26.7767189651235

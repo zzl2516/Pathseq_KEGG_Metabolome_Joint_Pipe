@@ -1,0 +1,5 @@
+"variable"	"Group"	"Mean"
+"Actinobacteria"	"Control"	1.90982867101975
+"Actinobacteria"	"Disease"	0.834148990423689
+"Proteobacteria"	"Control"	44.474473280002
+"Proteobacteria"	"Disease"	23.7760332582481

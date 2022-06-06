@@ -1,0 +1,3 @@
+"variable"	"Group"	"Mean"
+"Petitvirales"	"Control"	4.35065894965473
+"Petitvirales"	"Disease"	4.01808985798736

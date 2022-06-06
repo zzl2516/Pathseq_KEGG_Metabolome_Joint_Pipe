@@ -1,0 +1,6 @@
+"V1"	"p.value"
+"Betaproteobacteria"	"0.00679929210661068"
+"Coriobacteriia"	"0.00887220926687483"
+"Actinobacteria"	"0.0110726078171952"
+"Gammaproteobacteria"	"0.0119054898666681"
+"Negativicutes"	"0.0307163050616892"

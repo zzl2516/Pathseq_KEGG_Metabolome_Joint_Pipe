@@ -1,0 +1,15 @@
+
+Call:
+adonis(formula = data ~ Group, data = plotdata, distance = "bray") 
+
+Permutation: free
+Number of permutations: 999
+
+Terms added sequentially (first to last)
+
+          Df SumsOfSqs  MeanSqs F.Model      R2 Pr(>F)    
+Group      1   0.05611 0.056113  3.3855 0.04879  0.001 ***
+Residuals 66   1.09393 0.016575         0.95121           
+Total     67   1.15004                  1.00000           
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1

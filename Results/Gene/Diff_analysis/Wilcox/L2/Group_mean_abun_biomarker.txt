@@ -1,0 +1,25 @@
+"variable"	"Group"	"Mean"
+"1.10 Biosynthesis of other secondary metabolites"	"Control"	1.76375723804249
+"1.10 Biosynthesis of other secondary metabolites"	"Disease"	1.88515612829167
+"1.11 Xenobiotics biodegradation and metabolism"	"Control"	1.15759141504314
+"1.11 Xenobiotics biodegradation and metabolism"	"Disease"	1.05633907101041
+"1.7 Glycan biosynthesis and metabolism"	"Control"	2.77749544465342
+"1.7 Glycan biosynthesis and metabolism"	"Disease"	3.11948619983996
+"2.1 Transcription"	"Control"	0.245817206874722
+"2.1 Transcription"	"Disease"	0.27229574114408
+"3.1 Membrane transport"	"Control"	5.4337244975407
+"3.1 Membrane transport"	"Disease"	4.69320443663971
+"4.1 Transport and catabolism"	"Control"	0.496669940035903
+"4.1 Transport and catabolism"	"Disease"	0.631546088706244
+"4.2 Cell growth and death"	"Control"	1.12248635022152
+"4.2 Cell growth and death"	"Disease"	1.24515594438702
+"5.1 Immune system"	"Control"	0.156693821527754
+"5.1 Immune system"	"Disease"	0.191445160804967
+"5.2 Endocrine system"	"Control"	0.570205636572537
+"5.2 Endocrine system"	"Disease"	0.595356343181945
+"5.6 Nervous system"	"Control"	0.190646952348615
+"5.6 Nervous system"	"Disease"	0.215694427950777
+"6.1 Cancer: overview"	"Control"	0.50714746338025
+"6.1 Cancer: overview"	"Disease"	0.524755491579763
+"6.12 Drug resistance: antineoplastic"	"Control"	0.358368542672407
+"6.12 Drug resistance: antineoplastic"	"Disease"	0.376243259513556
